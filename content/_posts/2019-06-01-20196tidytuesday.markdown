@@ -1,0 +1,39 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-06-01 20:47:34+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/6/tidytuesday
+categories:
+- Code
+tags:
+- wine
+- R
+- food
+- plot
+---
+
+[#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click)! Food pairings for the top 5 varieties, as recommended by reviewers. I don't like the lines in the plot but couldn't find anything better. The code is hacky and messy but I learned a ton with this one! 
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-22](https://github.com/gkaramanis/tidytuesday/tree/master/week-22)
+
+
+
+  
+   ![](/images/2019-06-01-20196tidytuesday/wine.png)
+
+  
+
+
+
+As a bonus, here is a thing I drew many, many years ago.
+
+
+
+  
+   ![](/images/2019-06-01-20196tidytuesday/static_4f3f61bae4b063b909445965_524d9810e4b0b106ceda9d2b_524d9811e4b09b795fb41f78_1380816915550_wine.jpg)
+
+  
+
+

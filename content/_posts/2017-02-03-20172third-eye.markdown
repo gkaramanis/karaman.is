@@ -1,0 +1,11 @@
+---
+author: karamanis.g@gmail.com
+date: 2017-02-03 19:45:00+00:00
+draft: false
+title: Third eye
+type: post
+url: /blog/2017/2/third-eye
+---
+
+![](/images/2017-02-03-20172third-eye/image-asset.jpeg)
+

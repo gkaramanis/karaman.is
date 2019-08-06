@@ -1,0 +1,24 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-03-12 20:55:56+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/3/tidytuesday-1
+categories:
+- Code
+tags:
+- R
+- code
+- plot
+- board games
+---
+
+My second submission for [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday?src=hash). I'm quite happy with the plot, not so sure about the title and the "message", any feedback is welcome! 
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week%2011 …](https://t.co/xCxiaVM4CW)
+
+
+  
+      ![](/images/2019-03-12-20193tidytuesday-1/gametitles.png)
+

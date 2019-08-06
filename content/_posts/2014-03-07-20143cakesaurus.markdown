@@ -1,0 +1,20 @@
+---
+author: karamanis.g@gmail.com
+date: 2014-03-07 18:49:32+00:00
+draft: false
+title: Cakesaurus
+type: post
+url: /blog/2014/3/cakesaurus
+categories:
+- Art
+tags:
+- Procreate
+- dinosaur
+- iPad
+- cake
+- painting
+- art
+---
+
+![](/images/2014-03-07-20143cakesaurus/image.jpg)
+

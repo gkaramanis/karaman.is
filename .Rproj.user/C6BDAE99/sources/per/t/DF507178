@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564901633833.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3818716441",
+    "id" : "DF507178",
+    "lastKnownWriteTime" : 1564921779,
+    "last_content_update" : 1564921779690,
+    "path" : "~/Documents/Projects/karaman.is/urlfix.R",
+    "project_path" : "urlfix.R",
+    "properties" : {
+        "cursorPosition" : "11,53",
+        "scrollLine" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

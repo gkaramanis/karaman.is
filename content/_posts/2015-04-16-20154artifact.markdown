@@ -1,0 +1,18 @@
+---
+author: karamanis.g@gmail.com
+date: 2015-04-16 17:38:08+00:00
+draft: false
+title: Artifact
+type: post
+url: /blog/2015/4/artifact
+categories:
+- Photography
+tags:
+- self-portrait
+- b&w
+- iPhone
+- panorama
+---
+
+![](/images/2015-04-16-20154artifact/image-asset.jpeg)
+

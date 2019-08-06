@@ -1,0 +1,25 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-04-19 02:43:08+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/4/tidytuesday-3
+categories:
+- Code
+tags:
+- R
+- plot
+- economy
+---
+
+For this week’s #TidyTuesday I wanted to make an aesthetically pleasing but intentionally misleading plot, starting from someone else’s good one.
+
+So, here is the original by @theotheredgar and my (worse) version:
+
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2016
+
+
+  
+      ![](/images/2019-04-19-20194tidytuesday-3/image-asset.png)
+

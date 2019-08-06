@@ -1,0 +1,21 @@
+---
+author: karamanis.g@gmail.com
+date: 2016-09-09 16:03:47+00:00
+draft: false
+title: Beach
+type: post
+url: /blog/2016/9/beach
+categories:
+- Photography
+tags:
+- rock
+- Milos
+- Greece
+- bins
+- sand
+- beach
+- b&w
+---
+
+[caption id="" align="alignnone" width="1500.0"]![ Milos, Greece ](/images/2016-09-09-20169beach/image-asset.jpeg)
+ Milos, Greece [/caption]

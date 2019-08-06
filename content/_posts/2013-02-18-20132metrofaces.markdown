@@ -1,0 +1,19 @@
+---
+author: karamanis.g@gmail.com
+date: 2013-02-18 20:09:33+00:00
+draft: false
+title: No Content Found
+type: post
+url: /blog/2013/2/metrofaces
+categories:
+- Photography
+tags:
+- Stockholm
+- underground
+- b&w
+- people
+- street
+---
+
+[caption id="" align="alignnone" width="1500.0"]![  Stockholm, Sweden  ](/images/2013-02-18-20132metrofaces/20130218-R0013091.jpg)
+  Stockholm, Sweden  [/caption]

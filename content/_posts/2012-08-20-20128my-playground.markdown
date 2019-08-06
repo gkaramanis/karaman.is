@@ -1,0 +1,18 @@
+---
+author: karamanis.g@gmail.com
+date: 2012-08-20 19:02:17+00:00
+draft: false
+title: My playground
+type: post
+url: /blog/2012/8/my-playground
+categories:
+- Photography
+tags:
+- b&w
+- shadow
+- street
+- people
+---
+
+[caption id="" align="alignnone" width="1500.0"]![ Uppsala, Sweden ](/images/2012-08-20-20128my-playground/20120801-R0011488.jpg)
+ Uppsala, Sweden [/caption]

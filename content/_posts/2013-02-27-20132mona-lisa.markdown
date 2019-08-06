@@ -1,0 +1,21 @@
+---
+author: karamanis.g@gmail.com
+date: 2013-02-27 20:37:30+00:00
+draft: false
+title: Mona Lisa
+type: post
+url: /blog/2013/2/mona-lisa
+categories:
+- Photography
+tags:
+- painting
+- people
+- art
+- Paris
+- Louvre
+- museum
+- iPhone
+---
+
+[caption id="" align="alignnone" width="1125.0"]![ Paris, France ](/images/2013-02-27-20132mona-lisa/20130227-R0013372.jpg)
+ Paris, France [/caption]

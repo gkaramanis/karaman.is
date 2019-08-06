@@ -1,0 +1,31 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-06-19 20:10:23+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/6/tidytuesday-3
+categories:
+- Code
+tags:
+- birds
+- R
+- plot
+---
+
+Christmas Bird Counts for [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click) and I looked at easily-confused birds according to [Mass Audubon](https://www.massaudubon.org/learn/nature-wildlife/birds/commonly-confused-birds)  I don't know a thing about birds, so… 🤷🏽‍♀️
+
+code: [github](https://github.com/gkaramanis/tidytuesday/tree/master/week-25)
+
+  
+  
+
+
+
+
+  
+   ![](/images/2019-06-19-20196tidytuesday-3/xBirdCounts.png)
+
+  
+
+

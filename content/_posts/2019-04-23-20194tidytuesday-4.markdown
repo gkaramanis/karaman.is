@@ -1,0 +1,23 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-04-23 20:32:12+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/4/tidytuesday-4
+categories:
+- Code
+tags:
+- anime
+- plot
+- R
+---
+
+[#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click) submission, a plot of [#Anime](https://mobile.twitter.com/hashtag/Anime?src=hashtag_click) age ratings by genre. Seems that there a lot of PG-13 titles and especially in the comedy genre. Also, no R titles in the kids genre 🤔
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week%2017](https://github.com/gkaramanis/tidytuesday/tree/master/week%2017)
+
+
+  
+      ![](/images/2019-04-23-20194tidytuesday-4/anime.png)
+

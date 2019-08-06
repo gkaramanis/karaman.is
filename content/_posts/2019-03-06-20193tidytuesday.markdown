@@ -1,0 +1,28 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-03-06 14:31:30+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/3/tidytuesday
+categories:
+- Code
+tags:
+- R
+- plot
+- stats
+- women
+---
+
+First submission ever for [#tidytuesday](https://twitter.com/hashtag/tidytuesday?src=hash). Spent too much time tweaking the graph but couldn't help it! 
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week%2010 …](https://t.co/XbPhhBRTir)
+
+  
+  
+
+
+
+  
+      ![](/images/2019-03-06-20193tidytuesday/women-workplace.png)
+

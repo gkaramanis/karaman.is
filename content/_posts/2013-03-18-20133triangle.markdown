@@ -1,0 +1,20 @@
+---
+author: karamanis.g@gmail.com
+date: 2013-03-18 16:48:11+00:00
+draft: false
+title: Triangle
+type: post
+url: /blog/2013/3/triangle
+categories:
+- Photography
+tags:
+- Paris
+- people
+- museum
+- Louvre
+- camera
+- b&w
+---
+
+[caption id="" align="alignnone" width="1500.0"]![ Paris, France ](/images/2013-03-18-20133triangle/20130227-R0013362.jpg)
+ Paris, France [/caption]

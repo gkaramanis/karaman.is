@@ -1,0 +1,44 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-07-05 20:33:05+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/7/tidytuesday
+categories:
+- Code
+tags:
+- media
+- R
+- plot
+- video games
+---
+
+[#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click) and I looked at video games franchises and revenue just from the actual video games:
+
+
+
+  
+   ![](/images/2019-07-05-20197tidytuesday/media_franchises.png)
+
+  
+
+
+
+Second submission for this week's [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click), training my circular plot muscles for another challenge :) The labels above the circles are tiny, couldn't come up with any better solution, any feedback or idea is welcome!
+
+
+
+  
+   ![](/images/2019-07-05-20197tidytuesday/media_franchises_circles.png)
+
+  
+
+  
+   ![](/images/2019-07-05-20197tidytuesday/media_franchises_circles_zoom.png)
+
+  
+
+
+
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week-27

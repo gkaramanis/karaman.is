@@ -1,0 +1,17 @@
+---
+author: karamanis.g@gmail.com
+date: 2014-12-12 18:46:56+00:00
+draft: false
+title: Trapped
+type: post
+url: /blog/2014/12/trapped
+categories:
+- Animation/GIF
+tags:
+- Uppsala
+- gif
+- escalator
+---
+
+![](image-asset.gif)
+

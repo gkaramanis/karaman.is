@@ -1,0 +1,27 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-04-05 20:32:06+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/4/tidytuesday
+categories:
+- Code
+tags:
+- bicycle
+- plot
+- R
+---
+
+Late [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday?src=hash) submission.
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week%2014 …](https://t.co/gpO78cO1CC)
+
+  
+  
+
+
+
+  
+      ![](/images/2019-04-05-20194tidytuesday/bikes.png)
+

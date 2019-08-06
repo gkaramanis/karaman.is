@@ -1,0 +1,24 @@
+---
+author: karamanis.g@gmail.com
+date: 2018-10-17 11:45:35+00:00
+draft: false
+title: Dog on a hill
+type: post
+url: /blog/2018/10/dog-on-a-hill
+categories:
+- Art
+tags:
+- dog
+- hill
+- color
+- tree
+- pixel art
+---
+
+![](/images/2018-10-17-201810dog-on-a-hill/2CDA50EA-A59E-4615-A63E-94A36B50AC2D.full.JPG)
+
+  
+
+
+
+Made with 8bit Painter

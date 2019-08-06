@@ -1,0 +1,21 @@
+---
+author: karamanis.g@gmail.com
+date: 2016-11-28 18:41:00+00:00
+draft: false
+title: Here is a duck
+type: post
+url: /blog/2016/11/here-is-a-duck
+categories:
+- Photography
+tags:
+- duck
+- hand
+- people
+- trees
+- river
+- Greece
+- b&w
+---
+
+[caption id="" align="alignnone" width="1500.0"]![ Voidomatis River, Greece ](/images/2016-11-28-201611here-is-a-duck/image-asset.jpeg)
+ Voidomatis River, Greece [/caption]

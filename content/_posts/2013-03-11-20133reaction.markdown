@@ -1,0 +1,19 @@
+---
+author: karamanis.g@gmail.com
+date: 2013-03-11 18:40:11+00:00
+draft: false
+title: Reaction
+type: post
+url: /blog/2013/3/reaction
+tags:
+- gif
+---
+
+A gif I made. I think it's funny.
+
+([Dimitris Salpingidis](https://en.wikipedia.org/wiki/Dimitris_Salpingidis) gets his first red card in his career after 559 games)
+
+
+  
+      ![](Salpi.gif)
+

@@ -1,0 +1,23 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-05-14 20:09:39+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/5/tidytuesday-2
+categories:
+- Code
+tags:
+- Nobel
+- R
+- plot
+---
+
+[#NobelPrize](https://mobile.twitter.com/hashtag/NobelPrize?src=hashtag_click) winners for this week's [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click), I looked at birth and death countries. I liked the way the plot turned out, but too much text...  
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-20](https://github.com/gkaramanis/tidytuesday/tree/master/week-20)
+
+
+  
+      ![](/images/2019-05-14-20195tidytuesday-2/image-asset.png)
+

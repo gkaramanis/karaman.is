@@ -1,0 +1,26 @@
+---
+author: karamanis.g@gmail.com
+date: 2018-07-18 15:55:00+00:00
+draft: false
+title: Summertime
+type: post
+url: /blog/2018/7/summertime
+categories:
+- Art
+tags:
+- color
+- summer
+- pixel art
+- sea
+- umbrella
+- beach
+- 8bit painter
+---
+
+![](/images/2018-07-18-20187summertime/IMG_7175.full.JPG)
+
+  
+
+
+
+Made with 8bit Painter

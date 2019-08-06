@@ -1,0 +1,18 @@
+---
+author: karamanis.g@gmail.com
+date: 2018-09-04 22:00:00+00:00
+draft: false
+title: Pirate
+type: post
+url: /blog/2018/9/pirate
+categories:
+- Art
+tags:
+- drawn on
+- self-portrait
+- parrot
+- pirate
+---
+
+![](/images/2018-09-04-20189pirate/IMG_0453.JPG)
+

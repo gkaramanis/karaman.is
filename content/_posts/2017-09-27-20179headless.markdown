@@ -1,0 +1,19 @@
+---
+author: karamanis.g@gmail.com
+date: 2017-09-27 17:29:00+00:00
+draft: false
+title: Headless
+type: post
+url: /blog/2017/9/headless
+categories:
+- Photography
+tags:
+- people
+- underwater
+- sea
+- summer
+- color
+---
+
+[caption id="" align="alignnone" width="1500.0"]![ Afytos, Greece ](/images/2017-09-27-20179headless/20170720-P7200075.jpg)
+ Afytos, Greece [/caption]

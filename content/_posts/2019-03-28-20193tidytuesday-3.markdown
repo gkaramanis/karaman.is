@@ -1,0 +1,24 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-03-28 20:30:04+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/3/tidytuesday-3
+categories:
+- Code
+tags:
+- R
+- plot
+- cat
+- pets
+---
+
+Tried to do letter frequencies for this week's [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click) but it proved to be too hard for a newbie! 🤷🏽‍♀️ So, I made a simpler one with an overlay image of a cat, because internet! 
+
+code: [(link: https://github.com/gkaramanis/tidytuesday/tree/master/week%2013) github.com/gkaramanis/tid…](https://t.co/GkGxsDehbs?amp=1)
+
+
+  
+      ![](/images/2019-03-28-20193tidytuesday-3/pets.png)
+

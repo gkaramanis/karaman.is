@@ -1,0 +1,26 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-04-14 21:21:13+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/4/tidytuesday-2
+categories:
+- Code
+tags:
+- Grand Slam
+- plot
+- tennis
+- R
+---
+
+Another one for this week's Grand Slam [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click). Totally inspired by [@jakekaupp](https://twitter.com/jakekaupp)'s [work](https://twitter.com/jakekaupp/status/1116756586729439236).
+
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2015  
+  
+
+
+
+  
+      ![](/images/2019-04-14-20194tidytuesday-2/image-asset.png)
+

@@ -1,0 +1,23 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-05-09 19:53:50+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/5/tidytuesday-1
+categories:
+- Code
+tags:
+- R
+- plot
+- education
+---
+
+A [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday?src=hash) submission, trying to visualize the distributions of the ratios but probably a not very informative plot 🤷🏽‍♀️
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-19 …](https://t.co/AoVRF1eq0P)
+
+
+  
+      ![](/images/2019-05-09-20195tidytuesday-1/students.png)
+

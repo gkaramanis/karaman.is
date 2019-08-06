@@ -1,0 +1,27 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-05-04 11:51:05+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/5/tidytuesday
+categories:
+- Code
+tags:
+- R
+- plot
+- Chicago
+- birds
+- collision
+---
+
+Chicago Bird Collisions for [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click). I was close to giving up, but [@thomas_mock](https://mobile.twitter.com/thomas_mock)'s Grand Slam [plot](https://twitter.com/thomas_mock/status/1115984094943432704) saved the day and I learned a ton!
+
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2018  
+  
+
+
+
+  
+      ![](/images/2019-05-04-20195tidytuesday/birds2.png)
+

@@ -1,0 +1,57 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-05-19 14:07:55+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/5/tidytuesday-4
+categories:
+- Code
+tags:
+- Nobel
+- R
+- plot
+---
+
+Third and last submission for [#NobelPrize](https://mobile.twitter.com/hashtag/NobelPrize?src=hashtag_click) [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click). Looked at shared prizes across the 6 categories, really like the result. Inspired by [@spren9er](https://mobile.twitter.com/spren9er)'s plot "[Still a man's world](https://twitter.com/spren9er/status/1119156242914504709)", and got big help from his code  
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-20](https://github.com/gkaramanis/tidytuesday/tree/master/week-20)
+
+
+
+  
+   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Chemistry.png)
+
+  
+
+  
+   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Economics.png)
+
+  
+
+  
+   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Literature.png)
+
+  
+
+  
+   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Medicine.png)
+
+  
+
+  
+   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Peace.png)
+
+  
+
+  
+   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Physics.png)
+
+  
+
+
+
+  
+  
+  
+

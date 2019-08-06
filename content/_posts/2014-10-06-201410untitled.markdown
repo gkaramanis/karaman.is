@@ -1,0 +1,23 @@
+---
+author: karamanis.g@gmail.com
+date: 2014-10-06 16:11:41+00:00
+draft: false
+title: Untitled
+type: post
+url: /blog/2014/10/untitled
+categories:
+- Photography
+tags:
+- color
+- Uppsala
+- flower
+- iPhone
+---
+
+![](/images/2014-10-06-201410untitled/image-asset.jpeg)
+
+  
+
+
+
+Photo of me taken by [Elsa](http://elsaavraam.com).

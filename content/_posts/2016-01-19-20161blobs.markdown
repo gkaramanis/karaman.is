@@ -1,0 +1,15 @@
+---
+author: karamanis.g@gmail.com
+date: 2016-01-19 18:25:01+00:00
+draft: false
+title: Blobs
+type: post
+url: /blog/2016/1/blobs
+categories:
+- Animation/GIF
+tags:
+- b&w
+---
+
+[caption id="" align="alignnone" width="800.0"]![ Made with Cinema 4D. ](image-asset.gif)
+ Made with Cinema 4D. [/caption]

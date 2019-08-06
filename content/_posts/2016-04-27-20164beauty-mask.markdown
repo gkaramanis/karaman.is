@@ -1,0 +1,16 @@
+---
+author: karamanis.g@gmail.com
+date: 2016-04-27 16:41:00+00:00
+draft: false
+title: Beauty mask
+type: post
+url: /blog/2016/4/beauty-mask
+categories:
+- Photography
+tags:
+- self-portrait
+- b&w
+---
+
+![](/images/2016-04-27-20164beauty-mask/image-asset.jpeg)
+
