@@ -1,5 +1,5 @@
 title = "Georgios Karamanis"
-baseURL = "https://example.com"
+baseURL = "https://karaman.is"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "./themes"
@@ -18,9 +18,9 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Photography and datavisualization."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = "https://twitter.com/geokaramanis"
   instagram = ""
   youtube = ""
   github = ""
