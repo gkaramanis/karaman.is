@@ -1,0 +1,28 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-06-05 17:42:02+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/6/tidytuesday-1
+categories:
+- Code
+tags:
+- ramen
+- noodles
+- plot
+- R
+---
+
+Instant ramen reviews by  [@theramenrater](https://mobile.twitter.com/theramenrater) for [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click). Good luck reading the text, but couldn't help it, it was too much fun making this plot!
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-23](https://github.com/gkaramanis/tidytuesday/tree/master/week-23)
+
+
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1559756491006-VK8BN8E2FW57HR65SOZX/ke17ZwdGBToddI8pDm48kN7KVul1_7UTjieXmovFhft7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UetecXAJzh6VdUnaYtdHJdncweju8qTTrOhQX7pRfTxtpC969RuPXvt2ZwyzUXQf7Q/ramen.png?format=original)
+
+  
+
+

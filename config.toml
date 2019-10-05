@@ -1,7 +1,7 @@
 title = "Georgios Karamanis"
 baseURL = "https://karaman.is"
 languageCode = "en-us"
-theme = "ananke"
+theme = "gohugo-theme-ananke"
 themesDir = "./themes"
 
 MetaDataFormat = "yaml"
@@ -17,6 +17,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  custom_css = ["css/anancustom.css"]
   favicon = ""
   description = "Photography and data visualization."
   facebook = ""

@@ -1,0 +1,29 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-07-15 03:05:34+00:00
+draft: false
+title: tidytuesday
+type: post
+url: /blog/2019/7/tidytuesday-1
+categories:
+- Photography
+tags:
+- football
+- plot
+- R
+- WWC
+---
+
+Trying win-loss sparklines for [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click), quite happy with the result
+
+code: https://github.com/gkaramanis/tidytuesday/blob/master/week-28  
+
+
+
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1563159900084-P6T99XAB56M2RCU947UF/ke17ZwdGBToddI8pDm48kOM0wi0zWgY49OChaGdbQod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UQm-dUUJalI5hpyo_WmK1znWXHzgmKrnzlC6TU6GdiPuOpYghpI-Ha_TwZsqqmJXng/wwc.png?format=original)
+
+  
+
+

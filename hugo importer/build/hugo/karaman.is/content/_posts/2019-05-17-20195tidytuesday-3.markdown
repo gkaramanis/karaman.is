@@ -1,0 +1,23 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-05-17 13:00:00+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/5/tidytuesday-3
+categories:
+- Code
+tags:
+- Nobel
+- R
+- plot
+---
+
+A second submission for the [#Nobelprize](https://mobile.twitter.com/hashtag/Nobelprize?src=hashtag_click) [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click)! The same data as the [first one](https://karaman.is/blog/2019/5/tidytuesday-2) but this time on a world map. 
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-20]()
+
+
+  
+      ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1558099488643-06XS797867GPRHLAZW0R/ke17ZwdGBToddI8pDm48kCA3PBaI6lE1mIILkSP6ICV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua7jlgQxFsv-d4jNxs_y6XMY7wfxVW6MjQJ6UYvK_IMZbSexTd1-frD7527z4SM9QQ/nobelMap.png?format=original)
+

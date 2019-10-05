@@ -1,0 +1,24 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-05-24 03:22:27+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/5/tidytuesday-5
+categories:
+- Code
+tags:
+- R
+- plastic
+- waste
+- plot
+---
+
+A plot about Global Plastic Waste for this week's [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click). I sacrificed accuracy for looks and I liked it :)
+
+[code](https://github.com/gkaramanis/tidytuesday/tree/master/week-21)
+
+
+  
+      ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1558668109873-9WFGCZJ58GFDUR9P90LM/ke17ZwdGBToddI8pDm48kN7KVul1_7UTjieXmovFhft7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UetecXAJzh6VdUnaYtdHJdncweju8qTTrOhQX7pRfTxtpC969RuPXvt2ZwyzUXQf7Q/waste.png?format=original)
+

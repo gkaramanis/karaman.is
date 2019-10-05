@@ -1,0 +1,57 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-05-19 14:07:55+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/5/tidytuesday-4
+categories:
+- Code
+tags:
+- Nobel
+- R
+- plot
+---
+
+Third and last submission for [#NobelPrize](https://mobile.twitter.com/hashtag/NobelPrize?src=hashtag_click) [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click). Looked at shared prizes across the 6 categories, really like the result. Inspired by [@spren9er](https://mobile.twitter.com/spren9er)'s plot "[Still a man's world](https://twitter.com/spren9er/status/1119156242914504709)", and got big help from his code  
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-20](https://github.com/gkaramanis/tidytuesday/tree/master/week-20)
+
+
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1558274790571-2U170GZDNHAOLIO7N04I/ke17ZwdGBToddI8pDm48kHn85e-6r1uS88NFJtPH8gF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmb7DMunnZDcWSbZcGAnqmqm5rbonrGQ1x5ksYQxd9aicxSMCApAeBbjtxEPTrw4z-/nobelShared-Chemistry.png?format=original)
+
+  
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1558274790572-E4ITHAKWEI9P0KXFF88M/ke17ZwdGBToddI8pDm48kHn85e-6r1uS88NFJtPH8gF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmb7DMunnZDcWSbZcGAnqmqm5rbonrGQ1x5ksYQxd9aicxSMCApAeBbjtxEPTrw4z-/nobelShared-Economics.png?format=original)
+
+  
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1558274792072-O6ZEATS8O395427IPM7L/ke17ZwdGBToddI8pDm48kHn85e-6r1uS88NFJtPH8gF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmb7DMunnZDcWSbZcGAnqmqm5rbonrGQ1x5ksYQxd9aicxSMCApAeBbjtxEPTrw4z-/nobelShared-Literature.png?format=original)
+
+  
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1558274792222-3MUC8BBA65OJYZ33TODV/ke17ZwdGBToddI8pDm48kHn85e-6r1uS88NFJtPH8gF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmb7DMunnZDcWSbZcGAnqmqm5rbonrGQ1x5ksYQxd9aicxSMCApAeBbjtxEPTrw4z-/nobelShared-Medicine.png?format=original)
+
+  
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1558274793515-O0FS6UT55WNA4593P1JU/ke17ZwdGBToddI8pDm48kHn85e-6r1uS88NFJtPH8gF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmb7DMunnZDcWSbZcGAnqmqm5rbonrGQ1x5ksYQxd9aicxSMCApAeBbjtxEPTrw4z-/nobelShared-Peace.png?format=original)
+
+  
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1558274793802-2YR3LHFHCQOC4Y6X57SI/ke17ZwdGBToddI8pDm48kHn85e-6r1uS88NFJtPH8gF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmb7DMunnZDcWSbZcGAnqmqm5rbonrGQ1x5ksYQxd9aicxSMCApAeBbjtxEPTrw4z-/nobelShared-Physics.png?format=original)
+
+  
+
+
+
+  
+  
+  
+

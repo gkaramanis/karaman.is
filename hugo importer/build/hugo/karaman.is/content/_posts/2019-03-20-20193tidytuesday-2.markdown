@@ -1,0 +1,23 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-03-20 15:53:44+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/3/tidytuesday-2
+categories:
+- Code
+tags:
+- R
+- plot
+- stats
+---
+
+It's [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday?src=hash) again, trying a darker palette this time.
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week%2012 …](https://t.co/Gt3wqRiAbA)
+
+
+  
+      ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1553097218144-JDEGRV6R18MQ8E3DFLYR/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI7Hk5b7wKtplcrxPf3ag-g6VC0ObVEO8cEICumLtlwuA/policing.png?format=original)
+

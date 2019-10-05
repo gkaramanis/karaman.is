@@ -1,0 +1,39 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-06-01 20:47:34+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/6/tidytuesday
+categories:
+- Code
+tags:
+- wine
+- R
+- food
+- plot
+---
+
+[#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click)! Food pairings for the top 5 varieties, as recommended by reviewers. I don't like the lines in the plot but couldn't find anything better. The code is hacky and messy but I learned a ton with this one! 
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-22](https://github.com/gkaramanis/tidytuesday/tree/master/week-22)
+
+
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1559421955234-GIV4FAJG3SHPW3OKYKUR/ke17ZwdGBToddI8pDm48kHWJhM5OumnWkn-bJp56T597gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZ7cWd1LpBhZR6bwsM6WVV07xftaA23IPb4wFlikySLFbSexTd1-frD7527z4SM9QQ/wine.png?format=original)
+
+  
+
+
+
+As a bonus, here is a thing I drew many, many years ago.
+
+
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1559422012443-D460XUYGZ5ECDOTOMFM8/ke17ZwdGBToddI8pDm48kCvtuJExwzwVT2Egh6CY1fAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2l1DmysacpmQgc6xO-NQ39mrYCTlcIenthQ4InUqzaNBtJ7FN3X5-sPvnbvPhIz1B/static_4f3f61bae4b063b909445965_524d9810e4b0b106ceda9d2b_524d9811e4b09b795fb41f78_1380816915550_wine.jpg?format=original)
+
+  
+
+

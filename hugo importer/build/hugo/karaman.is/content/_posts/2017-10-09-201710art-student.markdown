@@ -1,0 +1,18 @@
+---
+author: karamanis.g@gmail.com
+date: 2017-10-09 17:29:00+00:00
+draft: false
+title: Art student
+type: post
+url: /blog/2017/10/art-student
+categories:
+- Photography
+tags:
+- people
+- museum
+- painting
+- b&w
+---
+
+[caption id="" align="alignnone" width="1125.0"]![ Paris, France ](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1507301665572-J0VA8G6809DLRFQ6HW6O/ke17ZwdGBToddI8pDm48kLSERMgCVymnItqhne5EfYV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmMCg6RGY8TrcVSOIk4QoDPnvjthEs8TAhVmYN7i_-QaEW7L_Q40KNxq4S2FLq3V0y/image-asset.jpeg?format=original)
+ Paris, France [/caption]

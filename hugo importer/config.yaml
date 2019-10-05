@@ -1,0 +1,42 @@
+# The directory where exitwp looks for wordpress export xml files.
+wp_exports: wordpress-xml
+
+# The target directory where all output is saved.
+build_dir: build
+
+# Output format: primary choices are html or markdown.
+target_format: markdown
+
+# The date format of the wikipedia export file.
+# I'm not sure if this ever differs depending on wordpress localization.
+# Wordpress is often so full of strange quirks so I wouldnt rule it out.
+date_format: '%Y-%m-%d %H:%M:%S'
+
+# Try to download and reloacate all images locally to the blog.
+download_images: True
+
+# Item types we don't want to import.
+item_type_filter: {attachment, nav_menu_item}
+
+# filter by any field type on the post.
+# By default, we're filtering based on field "status" set to "draft"
+item_field_filter: {status: draft}
+
+taxonomies:
+  # Filter taxonomies.
+  filter: {}
+  # Filter taxonomies entries.
+  entry_filter: {category: Uncategorized}
+  # Rename taxonomies when writing jekyll output format.
+  name_mapping: {category: categories, post_tag: tags}
+
+# Replace certain patterns in body
+# Simply replace the key with its value
+body_replace: {
+  # '<pre.*?lang="(.*?)".*?>': '\n{% codeblock \1 lang:\1 %}\n',
+  # '<pre.*?>': '\n{% codeblock %}\n',
+  # '</pre>': '\n{% endcodeblock %}\n',
+
+#    '[python]': '{% codeblock lang:python %}',
+#    '[/python]': '{% endcodeblock %}',
+}

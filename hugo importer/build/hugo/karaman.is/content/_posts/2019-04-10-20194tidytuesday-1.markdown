@@ -1,0 +1,24 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-04-10 20:42:51+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/4/tidytuesday-1
+categories:
+- Code
+tags:
+- tennis
+- plot
+- Grand Slam
+- R
+---
+
+Tennis Grand Slam winners for this week's #TidyTuesday. The plot got a little messy with the text but I'm happy with the rest of it :)
+
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2015
+
+
+  
+      ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1554928936944-WJP3WQ6HD0HP2XFOQ8Q1/ke17ZwdGBToddI8pDm48kKw6I20i1VwujTgy5ehFhB57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUpd-MpXLxkFzVzPHbBYOE99Ad3oP7kF7mm78N7DAn7VpC969RuPXvt2ZwyzUXQf7Q/tennis.png?format=original)
+

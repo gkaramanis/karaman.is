@@ -1,0 +1,32 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-06-25 20:15:09+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/6/tidytuesday-4
+categories:
+- Code
+tags:
+- UFO
+- R
+- plot
+- aliens
+---
+
+UFO sightings for [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday?src=hash) and I look at the top 10 cities in the world with the most reported encounters (all in the US). I didn't do any data cleaning at all, so the numbers shown may not correspond to reality 😄
+
+[code](https://github.com/gkaramanis/tidytuesday/tree/master/week-26)
+
+  
+  
+
+
+
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1561493663533-BZQXD8CV1Z6RLX5L9FRZ/ke17ZwdGBToddI8pDm48kEAwEK07li2CqplQOpajpjV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0pZ0AwdaaD_ObQ47IQDQJs7G_hg4SvQlmoQLqdbkKdYZhvPUKWPifQa9e8_uKO-STQ/ufo.png?format=original)
+
+  
+
+

@@ -1,0 +1,26 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-06-15 14:30:00+00:00
+draft: false
+title: '#tidytuesday'
+type: post
+url: /blog/2019/6/tidytuesday-2
+categories:
+- Code
+tags:
+- R
+- plot
+---
+
+Meteorites for [#TidyTuesday](https://mobile.twitter.com/hashtag/TidyTuesday?src=hashtag_click). Abandoned a couple of too ambitious attempts and found inspiration at [https://uk.rs-online.com/web/generalDisplay.html?id=earths-biggest-meteorites](https://t.co/wgoenM3HFC?amp=1)
+
+Update: Same plot with a slightly bigger map. Thanks [@CedScherer](https://mobile.twitter.com/CedScherer) for the suggestion, it definitely looks better! 
+
+code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-24](https://t.co/TmZuoW2XD9?amp=1)
+
+[#rstats](https://mobile.twitter.com/hashtag/rstats?src=hashtag_click) [#ggplot2](https://mobile.twitter.com/hashtag/ggplot2?src=hashtag_click) [#dataviz](https://mobile.twitter.com/hashtag/dataviz?src=hashtag_click)
+
+
+  
+      ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1560565471123-CUGKOPR1XVIPCOBRMWA8/ke17ZwdGBToddI8pDm48kNpv91ybsm66UqCSD04K-Tt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWpQlQ63rWIkpiKH-J4M9IpVhHOWg3hzaJZSkk4sGG3-hdyjf10zfCEVHp52s13p8g/public.jpeg?format=original)
+

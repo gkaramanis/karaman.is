@@ -1,0 +1,16 @@
+---
+author: karamanis.g@gmail.com
+date: 2016-03-14 16:54:46+00:00
+draft: false
+title: Before the spring
+type: post
+url: /blog/2016/3/before-the-spring
+categories:
+- Photography
+tags:
+- b&w
+- trees
+---
+
+[caption id="" align="alignnone" width="1500.0"]![ Uppsala, Sweden ](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1457974561169-0VZZ6GUB0BZNBR3KBHV3/ke17ZwdGBToddI8pDm48kGRKL4JIl0FV9_gnSO4xknsUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dr_4a0Jznzw0OCRTJVMM15xP37X5RQsGYt-cipN4dBgkpC969RuPXvt2ZwyzUXQf7Q/image-asset.jpeg?format=original)
+ Uppsala, Sweden [/caption]

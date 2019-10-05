@@ -1,0 +1,20 @@
+---
+author: karamanis.g@gmail.com
+date: 2014-03-07 18:49:32+00:00
+draft: false
+title: Cakesaurus
+type: post
+url: /blog/2014/3/cakesaurus
+categories:
+- Art
+tags:
+- Procreate
+- dinosaur
+- iPad
+- cake
+- painting
+- art
+---
+
+![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1394217875479-CACNTOA1ZE8SF3P3VHJK/ke17ZwdGBToddI8pDm48kBZw6jF4_OvU-ddo_vwqGhp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ub61YCrK70I7JIpWiI8ho4Yi1WvVNQtDE81xuRbL1MFKm0sD-Bab7E9MY8W31A7zMQ/image.jpg?format=original)
+

@@ -1,0 +1,36 @@
+---
+author: karamanis.g@gmail.com
+date: 2013-01-29 12:26:18+00:00
+draft: false
+title: Mailblink
+type: post
+url: /blog/2013/1/mailblink
+categories:
+- Code
+---
+
+Here is how to make your [blink(1)](http://thingm.com/products/blink-1.html) blink the number of your unread mails every time you get a new one.
+
+
+ 
+   
+ 
+
+
+Credit to timb for the idea in this [thread](https://getsatisfaction.com/thingm/topics/blink_if_there_a_unread_mails_in_mail_app).
+
+1. Create a new AppleScript with this code
+
+2. Save the script in ~/Library/ApplicationScripts/com.apple.mail/
+
+3. Create a rule in Mail.app that will run the script every time you get a new mail.
+
+
+  
+      ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1359461660610-OJWWUW5AO1UYJOLMLN4I/ke17ZwdGBToddI8pDm48kLW1-4QArzoTEi5uczcIn4dZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzjuL2K0GZGCPOdUC2z64l7qGpdT-7gqRCW7Eiw5GUh8lNFy9sWmzJhDBYK-0XUQd4/Screen+Shot+2013-01-29+at+12.10.26+PM.jpg?format=original)
+
+  
+
+
+
+4. Let it blink!

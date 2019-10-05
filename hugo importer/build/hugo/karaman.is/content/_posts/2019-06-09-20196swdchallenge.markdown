@@ -1,0 +1,27 @@
+---
+author: karamanis.g@gmail.com
+date: 2019-06-09 05:36:05+00:00
+draft: false
+title: '#SWDchallenge'
+type: post
+url: /blog/2019/6/swdchallenge
+categories:
+- Code
+tags:
+- R
+- plot
+- apple
+---
+
+First [#SWDchallenge](https://mobile.twitter.com/hashtag/SWDchallenge?src=hashtag_click) submission ever. Went for a minimalist, monochrome plot with lots of white space and as little text as possible and an [@Apple](https://mobile.twitter.com/Apple) rebranding came to mind [#dataviz](https://mobile.twitter.com/hashtag/dataviz?src=hashtag_click)
+
+(This is fake data for an illustrative branding exercise)
+
+
+
+  
+   ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1560058532847-PTDSAVXPQ717L4CHRW5Q/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/apple.png?format=original)
+
+  
+
+

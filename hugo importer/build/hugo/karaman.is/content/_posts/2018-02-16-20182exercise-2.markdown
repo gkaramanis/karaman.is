@@ -1,0 +1,25 @@
+---
+author: karamanis.g@gmail.com
+date: 2018-02-16 18:41:19+00:00
+draft: false
+title: Exercise 2
+type: post
+url: /blog/2018/2/exercise-2
+categories:
+- Exercise
+---
+
+
+  
+
+<blockquote>
+    Take a series of photographs that are not by you
+  </blockquote>
+
+
+  -- Susan Lipper, Alter Ego, The Photographer's Playbook, p. 200
+
+
+  
+      ![](https://images.squarespace-cdn.com/content/v1/4f3f61bae4b063b909445965/1518803385229-UPQIOLXWUU7KHJZKZK14/ke17ZwdGBToddI8pDm48kBKKsspbcJUJQQOLLFpl6e57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0r9YoV8ytu8SWDj21Bt3yU-yVZofRdiOl2jtioCQ4wVUrFB8Uv5SG2qtNxOoDnvpFA/IMG_4390.JPG?format=original)
+
