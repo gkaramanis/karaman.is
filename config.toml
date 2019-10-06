@@ -51,9 +51,9 @@ paginate = 5
 		weight = 2
 		
       [[languages.en.menu.main]]
-        identifier = "videos"
-        name = "videos"
-        url = "/videos"
+        identifier = "street"
+        name = "street"
+        url = "/street"
 
       [[languages.en.menu.main]]
         identifier = "archive"
