@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-08-05 11:09:24+00:00
 draft: false
 title: Stockholm Pride Parade 2013

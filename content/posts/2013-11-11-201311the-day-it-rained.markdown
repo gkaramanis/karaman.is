@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-11-11 18:57:54+00:00
 draft: false
 title: The day it rained

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-10-10 17:57:42+00:00
 draft: false
 title: 10/10

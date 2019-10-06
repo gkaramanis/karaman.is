@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2017-05-16 18:34:00+00:00
 draft: false
 title: May 16

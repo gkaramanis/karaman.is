@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education on Georgios Karamanis</title>
+    <link>/tags/education/</link>
+    <description>Recent content in education on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Thu, 09 May 2019 19:53:50 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#tidytuesday</title>
+      <link>/blog/2019/5/tidytuesday-1/</link>
+      <pubDate>Thu, 09 May 2019 19:53:50 +0000</pubDate>
+      
+      <guid>/blog/2019/5/tidytuesday-1/</guid>
+      <description>A #TidyTuesday submission, trying to visualize the distributions of the ratios but probably a not very informative plot 🤷🏽‍♀️
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week-19 …
+ ![](/images/2019-05-09-20195tidytuesday-1/students.png)  </description>
+    </item>
+    
+  </channel>
+</rss>

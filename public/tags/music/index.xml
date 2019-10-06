@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on Georgios Karamanis</title>
+    <link>/tags/music/</link>
+    <description>Recent content in music on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 02 Dec 2018 16:21:10 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 48</title>
+      <link>/blog/2018/12/week-48/</link>
+      <pubDate>Sun, 02 Dec 2018 16:21:10 +0000</pubDate>
+      
+      <guid>/blog/2018/12/week-48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 15</title>
+      <link>/blog/2018/4/week-15/</link>
+      <pubDate>Sun, 15 Apr 2018 16:35:00 +0000</pubDate>
+      
+      <guid>/blog/2018/4/week-15/</guid>
+      <description>The spring is here
+Oh, the sun and the buildings!
+Light and shadow play indoors
+Music!</description>
+    </item>
+    
+  </channel>
+</rss>

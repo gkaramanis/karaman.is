@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2015-04-16 17:38:08+00:00
 draft: false
 title: Artifact

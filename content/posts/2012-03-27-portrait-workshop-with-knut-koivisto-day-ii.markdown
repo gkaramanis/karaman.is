@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-03-27 16:48:00+00:00
 draft: false
 title: Portrait workshop with Knut Koivisto, day II

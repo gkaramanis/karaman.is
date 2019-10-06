@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-09-19 17:47:00+00:00
 draft: false
 title: Three little birds

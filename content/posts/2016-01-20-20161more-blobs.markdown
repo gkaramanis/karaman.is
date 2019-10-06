@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-01-20 16:56:50+00:00
 draft: false
 title: More blobs

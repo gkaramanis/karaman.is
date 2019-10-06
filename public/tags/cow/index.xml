@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cow on Georgios Karamanis</title>
+    <link>/tags/cow/</link>
+    <description>Recent content in cow on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Mon, 30 Apr 2012 13:44:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Holy cow!</title>
+      <link>/blog/2012/4/holy-cow/</link>
+      <pubDate>Mon, 30 Apr 2012 13:44:08 +0000</pubDate>
+      
+      <guid>/blog/2012/4/holy-cow/</guid>
+      <description>Today it&amp;rsquo;s Valborg in Uppsala and even the cows are celebrating.</description>
+    </item>
+    
+  </channel>
+</rss>

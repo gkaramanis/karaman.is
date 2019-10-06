@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-10-09 18:23:44+00:00
 draft: false
 title: Tiger behind the glass

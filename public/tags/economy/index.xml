@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>economy on Georgios Karamanis</title>
+    <link>/tags/economy/</link>
+    <description>Recent content in economy on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Fri, 19 Apr 2019 02:43:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/economy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#tidytuesday</title>
+      <link>/blog/2019/4/tidytuesday-3/</link>
+      <pubDate>Fri, 19 Apr 2019 02:43:08 +0000</pubDate>
+      
+      <guid>/blog/2019/4/tidytuesday-3/</guid>
+      <description>For this week’s #TidyTuesday I wanted to make an aesthetically pleasing but intentionally misleading plot, starting from someone else’s good one.
+So, here is the original by @theotheredgar and my (worse) version:
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2016
+ ![](/images/2019-04-19-20194tidytuesday-3/image-asset.png)  </description>
+    </item>
+    
+  </channel>
+</rss>

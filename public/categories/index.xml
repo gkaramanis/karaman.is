@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Georgios Karamanis</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Mon, 15 Jul 2019 03:05:34 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photography</title>
+      <link>/categories/photography/</link>
+      <pubDate>Mon, 15 Jul 2019 03:05:34 +0000</pubDate>
+      
+      <guid>/categories/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>/categories/code/</link>
+      <pubDate>Fri, 05 Jul 2019 20:33:05 +0000</pubDate>
+      
+      <guid>/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>/categories/art/</link>
+      <pubDate>Wed, 10 Apr 2019 16:23:06 +0000</pubDate>
+      
+      <guid>/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animation/GIF</title>
+      <link>/categories/animation/gif/</link>
+      <pubDate>Sun, 11 Nov 2018 17:59:00 +0000</pubDate>
+      
+      <guid>/categories/animation/gif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exercise</title>
+      <link>/categories/exercise/</link>
+      <pubDate>Fri, 16 Mar 2018 17:58:53 +0000</pubDate>
+      
+      <guid>/categories/exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/categories/video/</link>
+      <pubDate>Fri, 10 Feb 2017 18:04:46 +0000</pubDate>
+      
+      <guid>/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio</title>
+      <link>/categories/audio/</link>
+      <pubDate>Tue, 05 Nov 2013 19:46:14 +0000</pubDate>
+      
+      <guid>/categories/audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flickr favorites</title>
+      <link>/categories/flickr-favorites/</link>
+      <pubDate>Sat, 11 May 2013 09:10:58 +0000</pubDate>
+      
+      <guid>/categories/flickr-favorites/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-05-30 17:21:13+00:00
 draft: false
 title: Tuesday

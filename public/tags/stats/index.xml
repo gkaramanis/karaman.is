@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stats on Georgios Karamanis</title>
+    <link>/tags/stats/</link>
+    <description>Recent content in stats on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 20 Mar 2019 15:53:44 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/stats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#tidytuesday</title>
+      <link>/blog/2019/3/tidytuesday-2/</link>
+      <pubDate>Wed, 20 Mar 2019 15:53:44 +0000</pubDate>
+      
+      <guid>/blog/2019/3/tidytuesday-2/</guid>
+      <description>It&amp;rsquo;s #TidyTuesday again, trying a darker palette this time.
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2012 …
+ ![](/images/2019-03-20-20193tidytuesday-2/policing.png)  </description>
+    </item>
+    
+    <item>
+      <title>#tidytuesday</title>
+      <link>/blog/2019/3/tidytuesday/</link>
+      <pubDate>Wed, 06 Mar 2019 14:31:30 +0000</pubDate>
+      
+      <guid>/blog/2019/3/tidytuesday/</guid>
+      <description>First submission ever for #tidytuesday. Spent too much time tweaking the graph but couldn&amp;rsquo;t help it!
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2010 …
+ ![](/images/2019-03-06-20193tidytuesday/women-workplace.png)  </description>
+    </item>
+    
+  </channel>
+</rss>

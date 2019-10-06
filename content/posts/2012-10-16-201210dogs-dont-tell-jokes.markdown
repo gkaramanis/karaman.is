@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-10-16 10:38:09+00:00
 draft: false
 title: Dogs don't tell jokes

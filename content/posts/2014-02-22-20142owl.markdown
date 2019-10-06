@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-02-22 19:45:48+00:00
 draft: false
 title: Owl

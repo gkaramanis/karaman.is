@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>curtain on Georgios Karamanis</title>
+    <link>/tags/curtain/</link>
+    <description>Recent content in curtain on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 19 Aug 2018 17:45:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/curtain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 33</title>
+      <link>/blog/2018/8/week-33/</link>
+      <pubDate>Sun, 19 Aug 2018 17:45:00 +0000</pubDate>
+      
+      <guid>/blog/2018/8/week-33/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

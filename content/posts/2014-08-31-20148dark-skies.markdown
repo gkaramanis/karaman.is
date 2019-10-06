@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-08-31 10:01:44+00:00
 draft: false
 title: Dark skies

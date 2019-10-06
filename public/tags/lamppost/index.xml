@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lamppost on Georgios Karamanis</title>
+    <link>/tags/lamppost/</link>
+    <description>Recent content in lamppost on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 19 May 2019 17:10:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lamppost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 20</title>
+      <link>/blog/2019/5/week-20/</link>
+      <pubDate>Sun, 19 May 2019 17:10:00 +0000</pubDate>
+      
+      <guid>/blog/2019/5/week-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 11</title>
+      <link>/blog/2019/3/week-11/</link>
+      <pubDate>Sun, 17 Mar 2019 13:08:32 +0000</pubDate>
+      
+      <guid>/blog/2019/3/week-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 4</title>
+      <link>/blog/2019/1/week-4/</link>
+      <pubDate>Sun, 27 Jan 2019 19:30:26 +0000</pubDate>
+      
+      <guid>/blog/2019/1/week-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-11-11 18:42:00+00:00
 draft: false
 title: Lines

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-04-15 19:13:56+00:00
 draft: false
 title: The man and the light

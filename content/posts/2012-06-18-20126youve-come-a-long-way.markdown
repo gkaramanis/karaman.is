@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-06-18 10:30:18+00:00
 draft: false
 title: You've come a long way

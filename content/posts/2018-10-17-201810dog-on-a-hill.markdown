@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-10-17 11:45:35+00:00
 draft: false
 title: Dog on a hill

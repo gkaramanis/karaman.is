@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-06-23 18:39:11+00:00
 draft: false
 title: The hairdresser

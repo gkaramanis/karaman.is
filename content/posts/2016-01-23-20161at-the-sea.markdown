@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-01-23 18:50:43+00:00
 draft: false
 title: At the sea

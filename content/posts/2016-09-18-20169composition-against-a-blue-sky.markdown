@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-09-18 17:59:00+00:00
 draft: false
 title: Composition against a blue sky

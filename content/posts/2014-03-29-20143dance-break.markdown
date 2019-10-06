@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-03-29 16:38:17+00:00
 draft: false
 title: Dance break

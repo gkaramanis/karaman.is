@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2017-01-06 18:23:55+00:00
 draft: false
 title: Vanishing point

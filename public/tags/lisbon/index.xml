@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lisbon on Georgios Karamanis</title>
+    <link>/tags/lisbon/</link>
+    <description>Recent content in Lisbon on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 25 Oct 2017 17:29:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lisbon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Peeping</title>
+      <link>/blog/2017/10/peeping/</link>
+      <pubDate>Wed, 25 Oct 2017 17:29:00 +0000</pubDate>
+      
+      <guid>/blog/2017/10/peeping/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Lisbon, Portugal [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Untitled</title>
+      <link>/blog/2014/5/untitled-2/</link>
+      <pubDate>Wed, 28 May 2014 18:26:20 +0000</pubDate>
+      
+      <guid>/blog/2014/5/untitled-2/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Lisbon, Portugal [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Untitled</title>
+      <link>/blog/2014/5/untitled-1/</link>
+      <pubDate>Tue, 27 May 2014 18:24:49 +0000</pubDate>
+      
+      <guid>/blog/2014/5/untitled-1/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Lisbon, Portugal [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Untitled</title>
+      <link>/blog/2014/5/untitled/</link>
+      <pubDate>Sun, 25 May 2014 10:42:34 +0000</pubDate>
+      
+      <guid>/blog/2014/5/untitled/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Lisbon, Portugal [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Give me a hand</title>
+      <link>/blog/2014/5/give-me-a-hand/</link>
+      <pubDate>Sat, 24 May 2014 09:47:12 +0000</pubDate>
+      
+      <guid>/blog/2014/5/give-me-a-hand/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;994.0&amp;rdquo;]Lisbon, Portugal [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

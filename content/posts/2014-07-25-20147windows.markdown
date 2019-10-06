@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-07-25 08:48:20+00:00
 draft: false
 title: Windows

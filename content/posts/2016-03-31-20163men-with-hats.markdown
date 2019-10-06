@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-03-31 17:34:25+00:00
 draft: false
 title: Men with hats

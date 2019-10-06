@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-01-21 18:53:15+00:00
 draft: false
 title: Week 3

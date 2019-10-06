@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-08-18 08:19:05+00:00
 draft: false
 title: Red light

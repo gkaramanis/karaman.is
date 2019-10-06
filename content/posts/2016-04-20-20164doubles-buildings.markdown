@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-04-20 16:26:30+00:00
 draft: false
 title: Doubles - Buildings

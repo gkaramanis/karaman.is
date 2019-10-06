@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poison on Georgios Karamanis</title>
+    <link>/tags/poison/</link>
+    <description>Recent content in poison on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 18 Sep 2013 19:38:23 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/poison/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poisonous</title>
+      <link>/blog/2013/9/poisonous/</link>
+      <pubDate>Wed, 18 Sep 2013 19:38:23 +0000</pubDate>
+      
+      <guid>/blog/2013/9/poisonous/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

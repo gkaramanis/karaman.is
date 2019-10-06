@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-03-08 19:10:07+00:00
 draft: false
 title: Postcard from Paris

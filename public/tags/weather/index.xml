@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>weather on Georgios Karamanis</title>
+    <link>/tags/weather/</link>
+    <description>Recent content in weather on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Mon, 23 Apr 2012 18:39:03 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/weather/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Under the bridge</title>
+      <link>/blog/2012/4/under-the-bridge/</link>
+      <pubDate>Mon, 23 Apr 2012 18:39:03 +0000</pubDate>
+      
+      <guid>/blog/2012/4/under-the-bridge/</guid>
+      <description>Photos taken in Växjö, Sweden during the rainy day.
+ ![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5350.jpg) ![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5383.jpg) ![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5390.jpg)  </description>
+    </item>
+    
+  </channel>
+</rss>

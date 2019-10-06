@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-05-27 15:32:00+00:00
 draft: false
 title: The Ministry of Silly Runs

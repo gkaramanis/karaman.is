@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2019-05-12 07:30:00+00:00
 draft: false
 title: Week 19

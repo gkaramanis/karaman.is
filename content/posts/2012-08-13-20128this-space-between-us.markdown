@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-08-13 16:54:57+00:00
 draft: false
 title: This space between us

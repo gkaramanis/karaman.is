@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-09-09 10:34:57+00:00
 draft: false
 title: Week 36

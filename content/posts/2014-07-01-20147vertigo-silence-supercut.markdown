@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-07-01 19:20:05+00:00
 draft: false
 title: Vertigo - Silence supercut

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bread on Georgios Karamanis</title>
+    <link>/tags/bread/</link>
+    <description>Recent content in bread on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 18 Mar 2018 18:21:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/bread/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 11</title>
+      <link>/blog/2018/3/week-11/</link>
+      <pubDate>Sun, 18 Mar 2018 18:21:00 +0000</pubDate>
+      
+      <guid>/blog/2018/3/week-11/</guid>
+      <description>A trip to Stockholm
+Buildings
+Daily weirdness
+Cold shadows</description>
+    </item>
+    
+  </channel>
+</rss>

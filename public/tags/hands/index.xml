@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hands on Georgios Karamanis</title>
+    <link>/tags/hands/</link>
+    <description>Recent content in hands on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 14 Apr 2019 14:03:37 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hands/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 15</title>
+      <link>/blog/2019/4/week-15/</link>
+      <pubDate>Sun, 14 Apr 2019 14:03:37 +0000</pubDate>
+      
+      <guid>/blog/2019/4/week-15/</guid>
+      <description>An impromptu photo shoot last Monday with Marius at Må bra massage. I’ve been a happy customer of his for many years and can’t recommend him highly enough.</description>
+    </item>
+    
+  </channel>
+</rss>

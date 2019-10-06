@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-02-13 20:13:00+00:00
 draft: false
 title: A matter of distance

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>animal on Georgios Karamanis</title>
+    <link>/tags/animal/</link>
+    <description>Recent content in animal on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 12 Sep 2018 19:53:15 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/animal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laser eyes I</title>
+      <link>/blog/2018/9/laser-eyes-i/</link>
+      <pubDate>Wed, 12 Sep 2018 19:53:15 +0000</pubDate>
+      
+      <guid>/blog/2018/9/laser-eyes-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swan</title>
+      <link>/blog/2016/6/swan/</link>
+      <pubDate>Thu, 30 Jun 2016 16:24:06 +0000</pubDate>
+      
+      <guid>/blog/2016/6/swan/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Tiger behind the glass</title>
+      <link>/blog/2013/10/tiger-behind-the-glass/</link>
+      <pubDate>Wed, 09 Oct 2013 18:23:44 +0000</pubDate>
+      
+      <guid>/blog/2013/10/tiger-behind-the-glass/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]
+Part of the ongoing project &amp;ldquo;Domesticated Animals&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Elefant in a cage</title>
+      <link>/blog/2013/9/elefant-in-a-cage/</link>
+      <pubDate>Tue, 24 Sep 2013 16:51:53 +0000</pubDate>
+      
+      <guid>/blog/2013/9/elefant-in-a-cage/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Thessaloniki, Greece [/caption]
+Part of the ongoing project &amp;ldquo;Domesticated Animals&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

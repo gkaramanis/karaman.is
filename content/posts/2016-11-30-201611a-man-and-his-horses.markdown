@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-11-30 18:34:00+00:00
 draft: false
 title: A man and his horses

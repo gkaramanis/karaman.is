@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-10-28 15:34:49+00:00
 draft: false
 title: Week 43

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-02-10 09:26:15+00:00
 draft: false
 title: Ice

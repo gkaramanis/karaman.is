@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2017-11-06 16:16:39+00:00
 draft: false
 title: 🤘Dilitirio🤘 - Animoji Karaoke

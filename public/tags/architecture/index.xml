@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>architecture on Georgios Karamanis</title>
+    <link>/tags/architecture/</link>
+    <description>Recent content in architecture on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 16 Dec 2018 10:55:10 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 50</title>
+      <link>/blog/2018/12/week-50/</link>
+      <pubDate>Sun, 16 Dec 2018 10:55:10 +0000</pubDate>
+      
+      <guid>/blog/2018/12/week-50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 39</title>
+      <link>/blog/2018/9/week-39/</link>
+      <pubDate>Sun, 30 Sep 2018 14:33:11 +0000</pubDate>
+      
+      <guid>/blog/2018/9/week-39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 20</title>
+      <link>/blog/2018/5/week-20/</link>
+      <pubDate>Sun, 20 May 2018 16:42:00 +0000</pubDate>
+      
+      <guid>/blog/2018/5/week-20/</guid>
+      <description>This week, even more buildings!
+Vertical edges
+Dead things
+Living and colourful things
+Tiles</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-07-18 17:24:31+00:00
 draft: false
 title: Composition

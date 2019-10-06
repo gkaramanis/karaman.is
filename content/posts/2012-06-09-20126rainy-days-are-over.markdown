@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-06-09 18:28:01+00:00
 draft: false
 title: Rainy days are over

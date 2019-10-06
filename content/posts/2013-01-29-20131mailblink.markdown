@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-01-29 12:26:18+00:00
 draft: false
 title: Mailblink

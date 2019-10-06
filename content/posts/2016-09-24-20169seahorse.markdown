@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-09-24 17:46:00+00:00
 draft: false
 title: Seahorse

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-10-10 14:32:13+00:00
 draft: false
 title: Nun

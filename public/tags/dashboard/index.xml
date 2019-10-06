@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dashboard on Georgios Karamanis</title>
+    <link>/tags/dashboard/</link>
+    <description>Recent content in dashboard on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 29 Aug 2018 16:24:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dashboard</title>
+      <link>/blog/2018/8/dashboard/</link>
+      <pubDate>Wed, 29 Aug 2018 16:24:00 +0000</pubDate>
+      
+      <guid>/blog/2018/8/dashboard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

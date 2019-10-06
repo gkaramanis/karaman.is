@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2019-06-30 12:05:40+00:00
 draft: false
 title: Week 26

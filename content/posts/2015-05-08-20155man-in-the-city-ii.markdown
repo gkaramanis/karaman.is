@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2015-05-08 19:09:48+00:00
 draft: false
 title: Man in the city II

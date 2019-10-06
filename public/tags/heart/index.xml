@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heart on Georgios Karamanis</title>
+    <link>/tags/heart/</link>
+    <description>Recent content in heart on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 23 Jun 2019 09:28:58 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/heart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 25</title>
+      <link>/blog/2019/6/week-25/</link>
+      <pubDate>Sun, 23 Jun 2019 09:28:58 +0000</pubDate>
+      
+      <guid>/blog/2019/6/week-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 17</title>
+      <link>/blog/2019/4/week-17/</link>
+      <pubDate>Sun, 28 Apr 2019 18:25:55 +0000</pubDate>
+      
+      <guid>/blog/2019/4/week-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 38</title>
+      <link>/blog/2018/9/week-38/</link>
+      <pubDate>Sun, 23 Sep 2018 17:04:00 +0000</pubDate>
+      
+      <guid>/blog/2018/9/week-38/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

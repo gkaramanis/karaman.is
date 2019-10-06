@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-07-25 15:30:41+00:00
 draft: false
 title: Sunglassed

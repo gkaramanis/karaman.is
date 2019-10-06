@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-01-16 18:32:52+00:00
 draft: false
 title: The violinist

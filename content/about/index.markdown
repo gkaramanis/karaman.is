@@ -1,6 +1,4 @@
 ---
-author: Georgios Karamanis
-date: 2019-06-09 05:47:02+00:00
 draft: false
 title: about
 type: page

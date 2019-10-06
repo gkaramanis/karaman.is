@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-06-05 16:26:45+00:00
 draft: false
 title: The life behind us

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cat on Georgios Karamanis</title>
+    <link>/tags/cat/</link>
+    <description>Recent content in cat on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Thu, 28 Mar 2019 20:30:04 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#tidytuesday</title>
+      <link>/blog/2019/3/tidytuesday-3/</link>
+      <pubDate>Thu, 28 Mar 2019 20:30:04 +0000</pubDate>
+      
+      <guid>/blog/2019/3/tidytuesday-3/</guid>
+      <description>Tried to do letter frequencies for this week&amp;rsquo;s #TidyTuesday but it proved to be too hard for a newbie! 🤷🏽‍♀️ So, I made a simpler one with an overlay image of a cat, because internet!
+code: (link: https://github.com/gkaramanis/tidytuesday/tree/master/week%2013) github.com/gkaramanis/tid…
+ ![](/images/2019-03-28-20193tidytuesday-3/pets.png)  </description>
+    </item>
+    
+    <item>
+      <title>Week 44</title>
+      <link>/blog/2018/11/week-44/</link>
+      <pubDate>Sun, 04 Nov 2018 12:09:14 +0000</pubDate>
+      
+      <guid>/blog/2018/11/week-44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 31</title>
+      <link>/blog/2018/8/week-31/</link>
+      <pubDate>Sun, 05 Aug 2018 17:48:13 +0000</pubDate>
+      
+      <guid>/blog/2018/8/week-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cat sitting on butter</title>
+      <link>/blog/2018/8/cat-sitting-on-butter/</link>
+      <pubDate>Wed, 01 Aug 2018 15:30:09 +0000</pubDate>
+      
+      <guid>/blog/2018/8/cat-sitting-on-butter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eyes of the beast</title>
+      <link>/blog/2014/2/eyes-of-the-beast/</link>
+      <pubDate>Mon, 10 Feb 2014 19:59:06 +0000</pubDate>
+      
+      <guid>/blog/2014/2/eyes-of-the-beast/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]San Francisco, USA [/caption]
+ [caption id=&amp;quot;&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;1500.0&amp;quot;]![ Thessaloniki, Greece ](/images/2014-02-10-20142eyes-of-the-beast/20121224-R0012695.jpg)  Thessaloniki, Greece [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

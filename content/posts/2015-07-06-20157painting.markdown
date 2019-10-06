@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2015-07-06 17:43:10+00:00
 draft: false
 title: Painting

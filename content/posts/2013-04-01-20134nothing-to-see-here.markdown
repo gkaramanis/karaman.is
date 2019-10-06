@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-04-01 17:31:56+00:00
 draft: false
 title: Nothing to see here

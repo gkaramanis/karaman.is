@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text on Georgios Karamanis</title>
+    <link>/tags/text/</link>
+    <description>Recent content in text on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Fri, 23 Feb 2018 18:37:28 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exercise 3</title>
+      <link>/blog/2018/2/exercise-3/</link>
+      <pubDate>Fri, 23 Feb 2018 18:37:28 +0000</pubDate>
+      
+      <guid>/blog/2018/2/exercise-3/</guid>
+      <description>Get out of the house and take one picture, spending no more than ten minutes to do so. Don’t look at the picture (assuming you used a digital camera). Go back home. Write a short text (half a page) about why you took that picture. Put it into envelope A. Write another short text (half a page) about what you remember the picture to look like in your viewfinder.</description>
+    </item>
+    
+  </channel>
+</rss>

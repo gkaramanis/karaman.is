@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linköping on Georgios Karamanis</title>
+    <link>/tags/link%C3%B6ping/</link>
+    <description>Recent content in Linköping on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 25 Nov 2018 09:05:30 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/link%C3%B6ping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 47</title>
+      <link>/blog/2018/11/week-47/</link>
+      <pubDate>Sun, 25 Nov 2018 09:05:30 +0000</pubDate>
+      
+      <guid>/blog/2018/11/week-47/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

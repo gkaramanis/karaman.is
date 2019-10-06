@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-06-16 08:16:12+00:00
 draft: false
 title: Long distance call

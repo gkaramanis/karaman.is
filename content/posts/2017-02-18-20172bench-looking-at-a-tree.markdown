@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2017-02-18 18:22:00+00:00
 draft: false
 title: Bench looking at a tree

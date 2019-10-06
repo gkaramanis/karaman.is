@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-09-24 16:51:53+00:00
 draft: false
 title: Elefant in a cage

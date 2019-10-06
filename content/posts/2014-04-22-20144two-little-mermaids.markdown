@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-04-22 18:55:59+00:00
 draft: false
 title: Two little mermaids

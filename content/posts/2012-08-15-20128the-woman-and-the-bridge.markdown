@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-08-15 18:09:16+00:00
 draft: false
 title: The woman and the bridge

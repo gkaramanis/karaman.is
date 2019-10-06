@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2017-01-20 18:56:02+00:00
 draft: false
 title: Koutoubia Mosque

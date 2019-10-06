@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-10-10 15:11:58+00:00
 draft: false
 title: Sync 2

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-03-09 17:55:26+00:00
 draft: false
 title: Exercise 5

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-10-31 18:29:00+00:00
 draft: false
 title: Shapes

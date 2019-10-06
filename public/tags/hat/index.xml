@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hat on Georgios Karamanis</title>
+    <link>/tags/hat/</link>
+    <description>Recent content in hat on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 23 Jun 2019 09:28:58 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 25</title>
+      <link>/blog/2019/6/week-25/</link>
+      <pubDate>Sun, 23 Jun 2019 09:28:58 +0000</pubDate>
+      
+      <guid>/blog/2019/6/week-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Painting</title>
+      <link>/blog/2015/7/painting/</link>
+      <pubDate>Mon, 06 Jul 2015 17:43:10 +0000</pubDate>
+      
+      <guid>/blog/2015/7/painting/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Thessaloniki, Greece [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Hold it up</title>
+      <link>/blog/2012/8/hold-it-up/</link>
+      <pubDate>Tue, 28 Aug 2012 17:27:50 +0000</pubDate>
+      
+      <guid>/blog/2012/8/hold-it-up/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Stockholm, Sweden [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

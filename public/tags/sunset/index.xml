@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sunset on Georgios Karamanis</title>
+    <link>/tags/sunset/</link>
+    <description>Recent content in sunset on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 18 Nov 2018 14:58:49 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sunset/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 46</title>
+      <link>/blog/2018/11/week-46/</link>
+      <pubDate>Sun, 18 Nov 2018 14:58:49 +0000</pubDate>
+      
+      <guid>/blog/2018/11/week-46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 35</title>
+      <link>/blog/2018/9/week-35/</link>
+      <pubDate>Sun, 02 Sep 2018 15:56:08 +0000</pubDate>
+      
+      <guid>/blog/2018/9/week-35/</guid>
+      <description>At the marina
+And elsewhere</description>
+    </item>
+    
+    <item>
+      <title>Sunset</title>
+      <link>/blog/2016/9/sunset/</link>
+      <pubDate>Fri, 23 Sep 2016 17:15:00 +0000</pubDate>
+      
+      <guid>/blog/2016/9/sunset/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Milos, Greece [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

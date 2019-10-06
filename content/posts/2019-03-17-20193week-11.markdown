@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2019-03-17 13:08:32+00:00
 draft: false
 title: Week 11

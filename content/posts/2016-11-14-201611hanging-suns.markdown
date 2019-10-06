@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-11-14 17:48:00+00:00
 draft: false
 title: Hanging suns

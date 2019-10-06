@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-11-10 11:40:48+00:00
 draft: false
 title: Construction

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-10-07 16:05:20+00:00
 draft: false
 title: Week 40

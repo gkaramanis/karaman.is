@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-04-13 16:32:18+00:00
 draft: false
 title: People and shadows

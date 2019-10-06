@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-05-06 16:33:36+00:00
 draft: false
 title: Cloud harvesting

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wire on Georgios Karamanis</title>
+    <link>/tags/wire/</link>
+    <description>Recent content in wire on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 29 Apr 2018 17:00:38 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/wire/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 17</title>
+      <link>/blog/2018/4/week-17/</link>
+      <pubDate>Sun, 29 Apr 2018 17:00:38 +0000</pubDate>
+      
+      <guid>/blog/2018/4/week-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resting chair</title>
+      <link>/blog/2016/11/resting-chair/</link>
+      <pubDate>Wed, 16 Nov 2016 17:50:00 +0000</pubDate>
+      
+      <guid>/blog/2016/11/resting-chair/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1000.0&amp;rdquo;]Milos, Greece [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

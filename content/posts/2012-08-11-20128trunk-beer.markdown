@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-08-11 12:55:01+00:00
 draft: false
 title: Trunk beer

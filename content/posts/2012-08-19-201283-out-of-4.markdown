@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-08-19 09:05:16+00:00
 draft: false
 title: 3 out of 4

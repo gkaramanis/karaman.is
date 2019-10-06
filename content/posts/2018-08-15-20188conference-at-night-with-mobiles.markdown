@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-08-15 16:16:34+00:00
 draft: false
 title: Conference at night with mobiles

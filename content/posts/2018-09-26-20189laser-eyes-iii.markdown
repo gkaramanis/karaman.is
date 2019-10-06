@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-09-26 11:34:16+00:00
 draft: false
 title: Laser eyes III

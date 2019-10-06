@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-03-22 17:31:21+00:00
 draft: false
 title: Getting to work

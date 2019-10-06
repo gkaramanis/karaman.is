@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-09-26 17:01:01+00:00
 draft: false
 title: A cloud is hanging over my head

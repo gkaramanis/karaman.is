@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-07-31 16:54:21+00:00
 draft: false
 title: Bee at the beach

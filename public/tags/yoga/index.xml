@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yoga on Georgios Karamanis</title>
+    <link>/tags/yoga/</link>
+    <description>Recent content in yoga on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 31 Mar 2019 07:00:52 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/yoga/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 13</title>
+      <link>/blog/2019/3/week-13/</link>
+      <pubDate>Sun, 31 Mar 2019 07:00:52 +0000</pubDate>
+      
+      <guid>/blog/2019/3/week-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 33</title>
+      <link>/blog/2018/8/week-33/</link>
+      <pubDate>Sun, 19 Aug 2018 17:45:00 +0000</pubDate>
+      
+      <guid>/blog/2018/8/week-33/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

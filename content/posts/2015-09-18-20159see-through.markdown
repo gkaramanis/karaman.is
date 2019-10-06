@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2015-09-18 16:56:00+00:00
 draft: false
 title: See-through

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Louvre on Georgios Karamanis</title>
+    <link>/tags/louvre/</link>
+    <description>Recent content in Louvre on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Thu, 28 Mar 2013 21:22:05 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/louvre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bald men</title>
+      <link>/blog/2013/3/bald-men/</link>
+      <pubDate>Thu, 28 Mar 2013 21:22:05 +0000</pubDate>
+      
+      <guid>/blog/2013/3/bald-men/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1125.0&amp;rdquo;]Paris, France [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Triangle II</title>
+      <link>/blog/2013/3/triangle-ii/</link>
+      <pubDate>Mon, 25 Mar 2013 16:58:05 +0000</pubDate>
+      
+      <guid>/blog/2013/3/triangle-ii/</guid>
+      <description>Here is the first triangle.
+ [caption id=&amp;quot;&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;1500.0&amp;quot;]![ Paris, France ](/images/2013-03-25-20133triangle-ii/20130227-R0013390.jpg)  Paris, France [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Triangle</title>
+      <link>/blog/2013/3/triangle/</link>
+      <pubDate>Mon, 18 Mar 2013 16:48:11 +0000</pubDate>
+      
+      <guid>/blog/2013/3/triangle/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Paris, France [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Work in progress</title>
+      <link>/blog/2013/3/work-in-progress/</link>
+      <pubDate>Wed, 13 Mar 2013 19:47:09 +0000</pubDate>
+      
+      <guid>/blog/2013/3/work-in-progress/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1125.0&amp;rdquo;]Paris, France [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Mona Lisa</title>
+      <link>/blog/2013/2/mona-lisa/</link>
+      <pubDate>Wed, 27 Feb 2013 20:37:30 +0000</pubDate>
+      
+      <guid>/blog/2013/2/mona-lisa/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1125.0&amp;rdquo;]Paris, France [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

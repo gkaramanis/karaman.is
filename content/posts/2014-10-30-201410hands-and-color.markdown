@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-10-30 18:28:10+00:00
 draft: false
 title: Hands and color

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lake on Georgios Karamanis</title>
+    <link>/tags/lake/</link>
+    <description>Recent content in lake on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Fri, 27 Apr 2012 15:54:40 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lake/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moving</title>
+      <link>/blog/2012/4/moving/</link>
+      <pubDate>Fri, 27 Apr 2012 15:54:40 +0000</pubDate>
+      
+      <guid>/blog/2012/4/moving/</guid>
+      <description>Jogging, walking and cycling in Växjö, Sweden
+ ![](/images/2012-04-27-20124moving/20120321-GKAR5489.jpg) ![](/images/2012-04-27-20124moving/20120321-GKAR5449.jpg) ![](/images/2012-04-27-20124moving/20120321-GKAR5511.jpg)  </description>
+    </item>
+    
+  </channel>
+</rss>

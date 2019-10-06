@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>long exposure on Georgios Karamanis</title>
+    <link>/tags/long-exposure/</link>
+    <description>Recent content in long exposure on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 10 Jan 2018 18:39:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/long-exposure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ghost town</title>
+      <link>/blog/2018/1/ghost-town/</link>
+      <pubDate>Wed, 10 Jan 2018 18:39:00 +0000</pubDate>
+      
+      <guid>/blog/2018/1/ghost-town/</guid>
+      <description>I just &amp;ldquo;found&amp;rdquo; these long exposure photos from the summer. I like them.</description>
+    </item>
+    
+  </channel>
+</rss>

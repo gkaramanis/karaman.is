@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kulturnatten on Georgios Karamanis</title>
+    <link>/tags/kulturnatten/</link>
+    <description>Recent content in Kulturnatten on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sat, 13 Sep 2014 18:06:27 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/kulturnatten/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tea ceremony</title>
+      <link>/blog/2014/9/tea-ceremony/</link>
+      <pubDate>Sat, 13 Sep 2014 18:06:27 +0000</pubDate>
+      
+      <guid>/blog/2014/9/tea-ceremony/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

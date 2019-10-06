@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metal on Georgios Karamanis</title>
+    <link>/tags/metal/</link>
+    <description>Recent content in metal on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 29 May 2013 17:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/metal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lemon</title>
+      <link>/blog/2013/5/lemon/</link>
+      <pubDate>Wed, 29 May 2013 17:33:00 +0000</pubDate>
+      
+      <guid>/blog/2013/5/lemon/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]San Francisco, USA [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

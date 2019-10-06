@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2017-01-13 19:32:00+00:00
 draft: false
 title: Maison de la photographie

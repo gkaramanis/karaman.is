@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-01-31 18:31:00+00:00
 draft: false
 title: Things I see around me

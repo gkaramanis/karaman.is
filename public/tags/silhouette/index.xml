@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>silhouette on Georgios Karamanis</title>
+    <link>/tags/silhouette/</link>
+    <description>Recent content in silhouette on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 15 Jul 2018 17:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/silhouette/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 28</title>
+      <link>/blog/2018/7/week-28/</link>
+      <pubDate>Sun, 15 Jul 2018 17:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/7/week-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silhouette with ear</title>
+      <link>/blog/2014/4/silhouette-with-ear/</link>
+      <pubDate>Sun, 13 Apr 2014 18:38:01 +0000</pubDate>
+      
+      <guid>/blog/2014/4/silhouette-with-ear/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Stockholm, Sweden [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Man in the city</title>
+      <link>/blog/2013/4/man-in-the-city/</link>
+      <pubDate>Tue, 02 Apr 2013 18:19:51 +0000</pubDate>
+      
+      <guid>/blog/2013/4/man-in-the-city/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

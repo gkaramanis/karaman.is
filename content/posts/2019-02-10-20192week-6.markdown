@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2019-02-10 09:59:38+00:00
 draft: false
 title: Week 6

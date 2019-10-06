@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-04-25 17:06:00+00:00
 draft: false
 title: The meaningless of existence

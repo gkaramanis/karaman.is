@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-03-17 13:16:11+00:00
 draft: false
 title: Accidental painting

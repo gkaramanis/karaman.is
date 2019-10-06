@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-03-28 21:22:05+00:00
 draft: false
 title: Bald men

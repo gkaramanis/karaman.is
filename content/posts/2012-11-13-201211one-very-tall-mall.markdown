@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-11-13 19:00:14+00:00
 draft: false
 title: One very tall mall

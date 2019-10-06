@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-10-28 17:05:43+00:00
 draft: false
 title: Tacos no more.

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hopper on Georgios Karamanis</title>
+    <link>/tags/hopper/</link>
+    <description>Recent content in Hopper on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 15 Aug 2018 16:16:34 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hopper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference at night with mobiles</title>
+      <link>/blog/2018/8/conference-at-night-with-mobiles/</link>
+      <pubDate>Wed, 15 Aug 2018 16:16:34 +0000</pubDate>
+      
+      <guid>/blog/2018/8/conference-at-night-with-mobiles/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1000.0&amp;rdquo;]The original is Edward Hopper’s Conference at night ( link ) [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

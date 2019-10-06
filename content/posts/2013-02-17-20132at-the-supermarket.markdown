@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-02-17 12:34:30+00:00
 draft: false
 title: At the supermarket

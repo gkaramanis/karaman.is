@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>angel on Georgios Karamanis</title>
+    <link>/tags/angel/</link>
+    <description>Recent content in angel on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Mon, 04 Apr 2016 17:19:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/angel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mirror</title>
+      <link>/blog/2016/4/mirror/</link>
+      <pubDate>Mon, 04 Apr 2016 17:19:00 +0000</pubDate>
+      
+      <guid>/blog/2016/4/mirror/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

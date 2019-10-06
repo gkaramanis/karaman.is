@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-04-20 11:48:03+00:00
 draft: false
 title: Last week's favorites

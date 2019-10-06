@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chairs on Georgios Karamanis</title>
+    <link>/tags/chairs/</link>
+    <description>Recent content in chairs on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 23 Sep 2018 17:04:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/chairs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 38</title>
+      <link>/blog/2018/9/week-38/</link>
+      <pubDate>Sun, 23 Sep 2018 17:04:00 +0000</pubDate>
+      
+      <guid>/blog/2018/9/week-38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 16</title>
+      <link>/blog/2018/4/week-16/</link>
+      <pubDate>Sun, 22 Apr 2018 17:34:00 +0000</pubDate>
+      
+      <guid>/blog/2018/4/week-16/</guid>
+      <description>Water
+Birds
+Shadows
+Red vehicles
+Obscured</description>
+    </item>
+    
+    <item>
+      <title>Week 12</title>
+      <link>/blog/2018/3/week-12/</link>
+      <pubDate>Sun, 25 Mar 2018 17:28:00 +0000</pubDate>
+      
+      <guid>/blog/2018/3/week-12/</guid>
+      <description>Sunny days
+Exercises in minimalism and geometry
+Light and shadow play</description>
+    </item>
+    
+  </channel>
+</rss>

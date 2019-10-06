@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-06-27 19:41:54+00:00
 draft: false
 title: The King's Street

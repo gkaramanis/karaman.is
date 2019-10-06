@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Georgios Karamanis</title>
+    <link>/tags/code/</link>
+    <description>Recent content in code on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Tue, 12 Mar 2019 20:55:56 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#tidytuesday</title>
+      <link>/blog/2019/3/tidytuesday-1/</link>
+      <pubDate>Tue, 12 Mar 2019 20:55:56 +0000</pubDate>
+      
+      <guid>/blog/2019/3/tidytuesday-1/</guid>
+      <description>My second submission for #TidyTuesday. I&amp;rsquo;m quite happy with the plot, not so sure about the title and the &amp;ldquo;message&amp;rdquo;, any feedback is welcome!
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2011 …
+ ![](/images/2019-03-12-20193tidytuesday-1/gametitles.png)  </description>
+    </item>
+    
+  </channel>
+</rss>

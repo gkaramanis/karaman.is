@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-02-10 19:59:06+00:00
 draft: false
 title: Eyes of the beast

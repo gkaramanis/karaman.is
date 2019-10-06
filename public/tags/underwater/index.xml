@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>underwater on Georgios Karamanis</title>
+    <link>/tags/underwater/</link>
+    <description>Recent content in underwater on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 27 Sep 2017 17:29:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/underwater/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Headless</title>
+      <link>/blog/2017/9/headless/</link>
+      <pubDate>Wed, 27 Sep 2017 17:29:00 +0000</pubDate>
+      
+      <guid>/blog/2017/9/headless/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Afytos, Greece [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Jaws</title>
+      <link>/blog/2017/9/jaws/</link>
+      <pubDate>Fri, 22 Sep 2017 17:29:00 +0000</pubDate>
+      
+      <guid>/blog/2017/9/jaws/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1125.0&amp;rdquo;]Afytos, Greece [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

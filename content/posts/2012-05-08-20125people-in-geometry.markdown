@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-05-08 19:52:52+00:00
 draft: false
 title: People in geometry

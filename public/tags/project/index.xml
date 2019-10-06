@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project on Georgios Karamanis</title>
+    <link>/tags/project/</link>
+    <description>Recent content in project on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Thu, 06 Sep 2012 17:40:51 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Greek Summer</title>
+      <link>/blog/2012/9/a-greek-summer/</link>
+      <pubDate>Thu, 06 Sep 2012 17:40:51 +0000</pubDate>
+      
+      <guid>/blog/2012/9/a-greek-summer/</guid>
+      <description>It got a little chilly here in Uppsala today, so I thought it would be a good idea to share the photos of my little summer project. View the photos here or click this link to view them on the project&amp;rsquo;s page (they&amp;rsquo;re much bigger over there!).</description>
+    </item>
+    
+  </channel>
+</rss>

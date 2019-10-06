@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-03-13 19:47:09+00:00
 draft: false
 title: Work in progress

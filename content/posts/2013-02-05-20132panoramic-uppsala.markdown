@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-02-05 16:23:55+00:00
 draft: false
 title: Panoramic Uppsala

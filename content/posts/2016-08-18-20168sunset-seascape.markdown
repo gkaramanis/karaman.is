@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-08-18 19:20:37+00:00
 draft: false
 title: Sunset seascape

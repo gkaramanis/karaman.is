@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ice on Georgios Karamanis</title>
+    <link>/tags/ice/</link>
+    <description>Recent content in ice on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 08 Apr 2018 17:34:13 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 14</title>
+      <link>/blog/2018/4/week-14/</link>
+      <pubDate>Sun, 08 Apr 2018 17:34:13 +0000</pubDate>
+      
+      <guid>/blog/2018/4/week-14/</guid>
+      <description>Buildings with or without shadows
+Back to work
+The end of winter</description>
+    </item>
+    
+    <item>
+      <title>Week 11</title>
+      <link>/blog/2018/3/week-11/</link>
+      <pubDate>Sun, 18 Mar 2018 18:21:00 +0000</pubDate>
+      
+      <guid>/blog/2018/3/week-11/</guid>
+      <description>A trip to Stockholm
+Buildings
+Daily weirdness
+Cold shadows</description>
+    </item>
+    
+    <item>
+      <title>Nothing to see here</title>
+      <link>/blog/2013/4/nothing-to-see-here/</link>
+      <pubDate>Mon, 01 Apr 2013 17:31:56 +0000</pubDate>
+      
+      <guid>/blog/2013/4/nothing-to-see-here/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]
+ ![](/images/2013-04-01-20134nothing-to-see-here/20130328-R0010022.jpg)  </description>
+    </item>
+    
+    <item>
+      <title>Ice</title>
+      <link>/blog/2013/2/ice/</link>
+      <pubDate>Sun, 10 Feb 2013 09:26:15 +0000</pubDate>
+      
+      <guid>/blog/2013/2/ice/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

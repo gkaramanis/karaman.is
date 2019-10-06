@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-07-28 18:35:52+00:00
 draft: false
 title: Wood

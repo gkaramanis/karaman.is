@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>woman on Georgios Karamanis</title>
+    <link>/tags/woman/</link>
+    <description>Recent content in woman on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 24 Oct 2018 16:46:02 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/woman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portrait of woman with big nose</title>
+      <link>/blog/2018/10/portrait-of-woman-with-big-nose/</link>
+      <pubDate>Wed, 24 Oct 2018 16:46:02 +0000</pubDate>
+      
+      <guid>/blog/2018/10/portrait-of-woman-with-big-nose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amy J.</title>
+      <link>/blog/2018/10/amy-j/</link>
+      <pubDate>Wed, 03 Oct 2018 12:14:02 +0000</pubDate>
+      
+      <guid>/blog/2018/10/amy-j/</guid>
+      <description>Amy Johnson</description>
+    </item>
+    
+    <item>
+      <title>CCD</title>
+      <link>/blog/2018/8/ccd/</link>
+      <pubDate>Wed, 22 Aug 2018 10:01:16 +0000</pubDate>
+      
+      <guid>/blog/2018/8/ccd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 33</title>
+      <link>/blog/2018/8/week-33/</link>
+      <pubDate>Sun, 19 Aug 2018 17:45:00 +0000</pubDate>
+      
+      <guid>/blog/2018/8/week-33/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

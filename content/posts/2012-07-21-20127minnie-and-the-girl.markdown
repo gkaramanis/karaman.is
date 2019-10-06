@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-07-21 19:21:57+00:00
 draft: false
 title: Minnie and the girl

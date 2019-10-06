@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-11-01 19:29:30+00:00
 draft: false
 title: The tree in everything

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>angle on Georgios Karamanis</title>
+    <link>/tags/angle/</link>
+    <description>Recent content in angle on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 17:51:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/angle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 26</title>
+      <link>/blog/2018/7/week-26/</link>
+      <pubDate>Sun, 01 Jul 2018 17:51:00 +0000</pubDate>
+      
+      <guid>/blog/2018/7/week-26/</guid>
+      <description>Welcome
+Angles
+Buildings
+And the rest</description>
+    </item>
+    
+    <item>
+      <title>Angled</title>
+      <link>/blog/2013/12/angled/</link>
+      <pubDate>Mon, 02 Dec 2013 17:35:54 +0000</pubDate>
+      
+      <guid>/blog/2013/12/angled/</guid>
+      <description>[caption id=&amp;quot;&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;1500.0&amp;quot;]![ Uppsala, Sweden ](/images/2013-12-02-201312angled/20131129-R0001123.jpg)  Uppsala, Sweden [/caption]
+From the project &amp;ldquo;Angled&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

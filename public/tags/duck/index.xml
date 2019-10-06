@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>duck on Georgios Karamanis</title>
+    <link>/tags/duck/</link>
+    <description>Recent content in duck on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 08 Jul 2018 16:38:50 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/duck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 27</title>
+      <link>/blog/2018/7/week-27/</link>
+      <pubDate>Sun, 08 Jul 2018 16:38:50 +0000</pubDate>
+      
+      <guid>/blog/2018/7/week-27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Here is a duck</title>
+      <link>/blog/2016/11/here-is-a-duck/</link>
+      <pubDate>Mon, 28 Nov 2016 18:41:00 +0000</pubDate>
+      
+      <guid>/blog/2016/11/here-is-a-duck/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Voidomatis River, Greece [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

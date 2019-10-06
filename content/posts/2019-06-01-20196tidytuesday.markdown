@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2019-06-01 20:47:34+00:00
 draft: false
 title: '#tidytuesday'

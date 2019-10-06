@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trailer on Georgios Karamanis</title>
+    <link>/tags/trailer/</link>
+    <description>Recent content in trailer on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Mon, 28 Oct 2013 17:05:43 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/trailer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tacos no more.</title>
+      <link>/blog/2013/10/tacos-no-more/</link>
+      <pubDate>Mon, 28 Oct 2013 17:05:43 +0000</pubDate>
+      
+      <guid>/blog/2013/10/tacos-no-more/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

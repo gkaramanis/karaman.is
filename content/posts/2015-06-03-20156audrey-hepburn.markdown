@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2015-06-03 19:22:12+00:00
 draft: false
 title: Audrey Hepburn

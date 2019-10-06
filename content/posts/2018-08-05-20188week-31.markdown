@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-08-05 17:48:13+00:00
 draft: false
 title: Week 31

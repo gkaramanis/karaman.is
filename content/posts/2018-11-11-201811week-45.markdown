@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-11-11 17:59:00+00:00
 draft: false
 title: Week 45

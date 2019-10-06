@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-06-30 16:24:06+00:00
 draft: false
 title: Swan

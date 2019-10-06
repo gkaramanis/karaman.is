@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-08-08 18:05:22+00:00
 draft: false
 title: Sausages and hats

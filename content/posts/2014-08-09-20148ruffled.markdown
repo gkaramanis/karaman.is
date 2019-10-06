@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-08-09 17:35:50+00:00
 draft: false
 title: Ruffled

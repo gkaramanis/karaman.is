@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-08-04 19:19:40+00:00
 draft: false
 title: Bird stealing bread

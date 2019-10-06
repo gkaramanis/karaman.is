@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-06-23 16:43:44+00:00
 draft: false
 title: Stop her

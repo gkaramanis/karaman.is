@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>man on Georgios Karamanis</title>
+    <link>/tags/man/</link>
+    <description>Recent content in man on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 25 Jul 2018 11:01:48 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/man/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Man on the roof</title>
+      <link>/blog/2018/7/man-on-the-roof/</link>
+      <pubDate>Wed, 25 Jul 2018 11:01:48 +0000</pubDate>
+      
+      <guid>/blog/2018/7/man-on-the-roof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peeping</title>
+      <link>/blog/2017/10/peeping/</link>
+      <pubDate>Wed, 25 Oct 2017 17:29:00 +0000</pubDate>
+      
+      <guid>/blog/2017/10/peeping/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Lisbon, Portugal [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

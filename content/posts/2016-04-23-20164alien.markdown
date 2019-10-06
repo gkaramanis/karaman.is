@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-04-23 17:15:19+00:00
 draft: false
 title: Alien

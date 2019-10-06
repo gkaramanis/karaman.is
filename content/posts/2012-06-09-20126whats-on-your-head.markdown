@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-06-09 09:01:39+00:00
 draft: false
 title: What's on your head

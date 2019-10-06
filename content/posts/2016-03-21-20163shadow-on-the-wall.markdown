@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-03-21 19:16:26+00:00
 draft: false
 title: Shadow on the wall

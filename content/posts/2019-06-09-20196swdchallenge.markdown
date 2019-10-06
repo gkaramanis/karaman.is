@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2019-06-09 05:36:05+00:00
 draft: false
 title: '#SWDchallenge'

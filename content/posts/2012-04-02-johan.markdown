@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-04-02 17:09:11+00:00
 draft: false
 title: Johan

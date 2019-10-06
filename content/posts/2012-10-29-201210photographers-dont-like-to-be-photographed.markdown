@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-10-29 18:37:18+00:00
 draft: false
 title: Photographers don't like to be photographed

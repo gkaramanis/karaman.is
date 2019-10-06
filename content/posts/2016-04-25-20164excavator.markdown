@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-04-25 16:56:53+00:00
 draft: false
 title: Excavator

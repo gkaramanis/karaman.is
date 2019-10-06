@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2015-04-11 16:07:40+00:00
 draft: false
 title: Following the yellow line

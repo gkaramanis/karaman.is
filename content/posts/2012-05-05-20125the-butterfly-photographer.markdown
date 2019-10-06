@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-05-05 12:53:33+00:00
 draft: false
 title: The butterfly photographer

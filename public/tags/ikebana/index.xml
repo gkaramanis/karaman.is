@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ikebana on Georgios Karamanis</title>
+    <link>/tags/ikebana/</link>
+    <description>Recent content in ikebana on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Mon, 16 Jun 2014 18:29:47 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ikebana/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hairy</title>
+      <link>/blog/2014/6/hairy/</link>
+      <pubDate>Mon, 16 Jun 2014 18:29:47 +0000</pubDate>
+      
+      <guid>/blog/2014/6/hairy/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;994.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

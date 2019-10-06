@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-09-15 17:38:53+00:00
 draft: false
 title: Accidental Jimi Hendrix

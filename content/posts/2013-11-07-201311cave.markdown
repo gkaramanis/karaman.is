@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-11-07 19:04:37+00:00
 draft: false
 title: Cave

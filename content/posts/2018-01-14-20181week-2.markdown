@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-01-14 18:45:29+00:00
 draft: false
 title: Week 2

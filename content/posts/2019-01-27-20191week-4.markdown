@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2019-01-27 19:30:26+00:00
 draft: false
 title: Week 4

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hole on Georgios Karamanis</title>
+    <link>/tags/hole/</link>
+    <description>Recent content in hole on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 16 Jun 2019 14:43:58 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hole/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 24</title>
+      <link>/blog/2019/6/week-24/</link>
+      <pubDate>Sun, 16 Jun 2019 14:43:58 +0000</pubDate>
+      
+      <guid>/blog/2019/6/week-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 46</title>
+      <link>/blog/2018/11/week-46/</link>
+      <pubDate>Sun, 18 Nov 2018 14:58:49 +0000</pubDate>
+      
+      <guid>/blog/2018/11/week-46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dance break</title>
+      <link>/blog/2014/3/dance-break/</link>
+      <pubDate>Sat, 29 Mar 2014 16:38:17 +0000</pubDate>
+      
+      <guid>/blog/2014/3/dance-break/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

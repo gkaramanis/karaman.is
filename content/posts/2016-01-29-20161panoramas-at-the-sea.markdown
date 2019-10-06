@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2016-01-29 18:01:19+00:00
 draft: false
 title: Panoramas at the sea

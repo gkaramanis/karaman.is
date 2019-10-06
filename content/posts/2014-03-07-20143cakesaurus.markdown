@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-03-07 18:49:32+00:00
 draft: false
 title: Cakesaurus

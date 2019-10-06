@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>marathon on Georgios Karamanis</title>
+    <link>/tags/marathon/</link>
+    <description>Recent content in marathon on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Wed, 05 Jun 2013 16:26:45 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/marathon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The life behind us</title>
+      <link>/blog/2013/6/the-life-behind-us/</link>
+      <pubDate>Wed, 05 Jun 2013 16:26:45 +0000</pubDate>
+      
+      <guid>/blog/2013/6/the-life-behind-us/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Stockholm, Sweden [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Man down</title>
+      <link>/blog/2013/6/man-down/</link>
+      <pubDate>Tue, 04 Jun 2013 17:35:34 +0000</pubDate>
+      
+      <guid>/blog/2013/6/man-down/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Stockholm, Sweden [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

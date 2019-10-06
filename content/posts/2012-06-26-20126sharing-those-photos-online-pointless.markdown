@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-06-26 08:43:39+00:00
 draft: false
 title: 'Sharing those photos online: pointless'

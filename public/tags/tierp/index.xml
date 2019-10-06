@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tierp on Georgios Karamanis</title>
+    <link>/tags/tierp/</link>
+    <description>Recent content in Tierp on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sat, 23 Nov 2013 20:01:39 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tierp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meeting point</title>
+      <link>/blog/2013/11/meeting-point/</link>
+      <pubDate>Sat, 23 Nov 2013 20:01:39 +0000</pubDate>
+      
+      <guid>/blog/2013/11/meeting-point/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Tierp, Sweden [/caption]
+From the project &amp;ldquo;Evidence of Absence&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>The day it rained</title>
+      <link>/blog/2013/11/the-day-it-rained/</link>
+      <pubDate>Mon, 11 Nov 2013 18:57:54 +0000</pubDate>
+      
+      <guid>/blog/2013/11/the-day-it-rained/</guid>
+      <description> ![](/images/2013-11-11-201311the-day-it-rained/20131105-R0001059.jpg)  </description>
+    </item>
+    
+    <item>
+      <title>First snow</title>
+      <link>/blog/2013/10/first-snow/</link>
+      <pubDate>Sun, 27 Oct 2013 15:54:25 +0000</pubDate>
+      
+      <guid>/blog/2013/10/first-snow/</guid>
+      <description>Or maybe second.
+ [caption id=&amp;quot;&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;1500.0&amp;quot;]![ Tierp, Sweden ](/images/2013-10-27-201310first-snow/20131022-R0000897.jpg)  Tierp, Sweden [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

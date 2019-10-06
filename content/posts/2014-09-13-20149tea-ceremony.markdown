@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-09-13 18:06:27+00:00
 draft: false
 title: Tea ceremony

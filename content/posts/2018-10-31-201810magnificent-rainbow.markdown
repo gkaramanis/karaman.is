@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2018-10-31 16:41:27+00:00
 draft: false
 title: Magnificent rainbow

@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2013-11-05 19:46:14+00:00
 draft: false
 title: Summer

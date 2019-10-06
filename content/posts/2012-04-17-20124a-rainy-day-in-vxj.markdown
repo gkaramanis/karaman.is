@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2012-04-17 18:08:48+00:00
 draft: false
 title: A rainy day in Växjö

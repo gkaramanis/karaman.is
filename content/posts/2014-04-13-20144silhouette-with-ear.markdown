@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2014-04-13 18:38:01+00:00
 draft: false
 title: Silhouette with ear

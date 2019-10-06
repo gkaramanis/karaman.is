@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crane on Georgios Karamanis</title>
+    <link>/tags/crane/</link>
+    <description>Recent content in crane on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Sun, 26 May 2019 09:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/crane/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 21</title>
+      <link>/blog/2019/5/week-21/</link>
+      <pubDate>Sun, 26 May 2019 09:30:00 +0000</pubDate>
+      
+      <guid>/blog/2019/5/week-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 37</title>
+      <link>/blog/2018/9/week-37/</link>
+      <pubDate>Sun, 16 Sep 2018 17:04:35 +0000</pubDate>
+      
+      <guid>/blog/2018/9/week-37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Week 15</title>
+      <link>/blog/2018/4/week-15/</link>
+      <pubDate>Sun, 15 Apr 2018 16:35:00 +0000</pubDate>
+      
+      <guid>/blog/2018/4/week-15/</guid>
+      <description>The spring is here
+Oh, the sun and the buildings!
+Light and shadow play indoors
+Music!</description>
+    </item>
+    
+  </channel>
+</rss>

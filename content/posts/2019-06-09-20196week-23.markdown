@@ -1,5 +1,5 @@
 ---
-author: karamanis.g@gmail.com
+
 date: 2019-06-09 14:53:44+00:00
 draft: false
 title: Week 23
