@@ -2,7 +2,7 @@
 draft: false
 title: videos
 type: page
-url: /videos
+permalink: /videos
 ---
 
 ![](/img.jpg)
