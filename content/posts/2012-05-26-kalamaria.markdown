@@ -19,35 +19,35 @@ Some photos from the streets of [Kalamaria](https://en.wikipedia.org/wiki/Kalama
 
 
   
-      ![](/images/2012-05-26-kalamaria/20120511-IMG_3919.jpg)
+![](/images/2012-05-26-kalamaria/20120511-IMG_3919.jpg)
 
   
 
 
   
-      ![](/images/2012-05-26-kalamaria/GKAR5913.jpg)
+![](/images/2012-05-26-kalamaria/GKAR5913.jpg)
 
   
 
 
   
-      ![](/images/2012-05-26-kalamaria/GKAR5930.jpg)
+![](/images/2012-05-26-kalamaria/GKAR5930.jpg)
 
   
 
 
   
-      ![](/images/2012-05-26-kalamaria/GKAR5920.jpg)
+![](/images/2012-05-26-kalamaria/GKAR5920.jpg)
 
   
 
 
   
-      ![](/images/2012-05-26-kalamaria/20120520-IMG_2329.jpg)
+![](/images/2012-05-26-kalamaria/20120520-IMG_2329.jpg)
 
   
 
 
   
-      ![](/images/2012-05-26-kalamaria/20120519-IMG_2314.jpg)
+![](/images/2012-05-26-kalamaria/20120519-IMG_2314.jpg)
 

@@ -19,5 +19,5 @@ tags:
 
 
   
-      ![](/images/2013-04-01-20134nothing-to-see-here/20130328-R0010022.jpg)
+![](/images/2013-04-01-20134nothing-to-see-here/20130328-R0010022.jpg)
 

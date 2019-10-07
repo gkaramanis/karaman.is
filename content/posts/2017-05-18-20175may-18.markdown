@@ -13,5 +13,5 @@ url: /blog/2017/5/may-18
 
 
   
-      ![](/images/2017-05-18-20175may-18/image-asset.jpeg)
+![](/images/2017-05-18-20175may-18/image-asset.jpeg)
 

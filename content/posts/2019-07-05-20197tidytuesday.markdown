@@ -19,7 +19,7 @@ tags:
 
 
   
-   ![](/images/2019-07-05-20197tidytuesday/media_franchises.png)
+![](/images/2019-07-05-20197tidytuesday/media_franchises.png)
 
   
 
@@ -30,12 +30,12 @@ Second submission for this week's [#TidyTuesday](https://mobile.twitter.com/hash
 
 
   
-   ![](/images/2019-07-05-20197tidytuesday/media_franchises_circles.png)
+![](/images/2019-07-05-20197tidytuesday/media_franchises_circles.png)
 
   
 
   
-   ![](/images/2019-07-05-20197tidytuesday/media_franchises_circles_zoom.png)
+![](/images/2019-07-05-20197tidytuesday/media_franchises_circles_zoom.png)
 
   
 

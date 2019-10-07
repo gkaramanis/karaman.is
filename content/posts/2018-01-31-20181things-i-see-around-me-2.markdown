@@ -18,7 +18,7 @@ tags:
 
 
   
-   ![](/images/2018-01-31-20181things-i-see-around-me-2/IMG_4017.jpg)
+![](/images/2018-01-31-20181things-i-see-around-me-2/IMG_4017.jpg)
 
   
 

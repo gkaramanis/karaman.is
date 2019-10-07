@@ -19,5 +19,5 @@ code: [https://github.com/gkaramanis/tidytuesday/tree/master/week%2012 …](http
 
 
   
-      ![](/images/2019-03-20-20193tidytuesday-2/policing.png)
+![](/images/2019-03-20-20193tidytuesday-2/policing.png)
 

@@ -25,7 +25,7 @@ UFO sightings for [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday?src=has
 
 
   
-   ![](/images/2019-06-25-20196tidytuesday-4/ufo.png)
+![](/images/2019-06-25-20196tidytuesday-4/ufo.png)
 
   
 

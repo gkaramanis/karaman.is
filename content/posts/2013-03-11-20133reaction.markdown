@@ -15,5 +15,5 @@ A gif I made. I think it's funny.
 
 
   
-      ![](Salpi.gif)
+![](Salpi.gif)
 

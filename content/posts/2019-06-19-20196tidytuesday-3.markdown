@@ -24,7 +24,7 @@ code: [github](https://github.com/gkaramanis/tidytuesday/tree/master/week-25)
 
 
   
-   ![](/images/2019-06-19-20196tidytuesday-3/xBirdCounts.png)
+![](/images/2019-06-19-20196tidytuesday-3/xBirdCounts.png)
 
   
 

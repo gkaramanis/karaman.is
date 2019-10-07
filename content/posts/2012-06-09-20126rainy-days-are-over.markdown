@@ -19,41 +19,41 @@ Just a few days ago I got my new camera, a Ricoh GRD IV. Here the first "test" s
 
 
   
-      ![](/images/2012-06-09-20126rainy-days-are-over/20120606-R0010049.jpg)
+![](/images/2012-06-09-20126rainy-days-are-over/20120606-R0010049.jpg)
 
   
 
 
   
-      ![](/images/2012-06-09-20126rainy-days-are-over/20120607-R0010074.jpg)
+![](/images/2012-06-09-20126rainy-days-are-over/20120607-R0010074.jpg)
 
   
 
 
   
-      ![](/images/2012-06-09-20126rainy-days-are-over/20120609-R0010130.jpg)
+![](/images/2012-06-09-20126rainy-days-are-over/20120609-R0010130.jpg)
 
   
 
 
   
-      ![](/images/2012-06-09-20126rainy-days-are-over/20120609-R0010145.jpg)
+![](/images/2012-06-09-20126rainy-days-are-over/20120609-R0010145.jpg)
 
   
 
 
   
-      ![](/images/2012-06-09-20126rainy-days-are-over/20120609-R0010166.jpg)
+![](/images/2012-06-09-20126rainy-days-are-over/20120609-R0010166.jpg)
 
   
 
 
   
-      ![](/images/2012-06-09-20126rainy-days-are-over/20120609-R0010176.jpg)
+![](/images/2012-06-09-20126rainy-days-are-over/20120609-R0010176.jpg)
 
   
 
 
   
-      ![](/images/2012-06-09-20126rainy-days-are-over/20120609-R0010183.jpg)
+![](/images/2012-06-09-20126rainy-days-are-over/20120609-R0010183.jpg)
 

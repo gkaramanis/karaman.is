@@ -20,5 +20,5 @@ tags:
 
 
   
-      ![](/images/2012-10-29-201210photographers-dont-like-to-be-photographed/20120922-R0011971.jpg)
+![](/images/2012-10-29-201210photographers-dont-like-to-be-photographed/20120922-R0011971.jpg)
 

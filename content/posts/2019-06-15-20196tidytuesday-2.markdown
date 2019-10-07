@@ -22,5 +22,5 @@ code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-24](https://t.
 
 
   
-      ![](/images/2019-06-15-20196tidytuesday-2/public.jpeg)
+![](/images/2019-06-15-20196tidytuesday-2/public.jpeg)
 

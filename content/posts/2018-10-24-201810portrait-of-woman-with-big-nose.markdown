@@ -20,7 +20,7 @@ tags:
 
 
   
-   ![](/images/2018-10-24-201810portrait-of-woman-with-big-nose/image-asset.jpeg)
+![](/images/2018-10-24-201810portrait-of-woman-with-big-nose/image-asset.jpeg)
 
   
 

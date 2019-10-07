@@ -22,5 +22,5 @@ I take photos with my camera and make [mixels](http://mixel.by/georgios-karamani
 
 
   
-      ![](/images/2012-05-05-20125the-butterfly-photographer/20120505-IMG_0213.jpg)
+![](/images/2012-05-05-20125the-butterfly-photographer/20120505-IMG_0213.jpg)
 

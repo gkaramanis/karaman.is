@@ -19,5 +19,5 @@ tags:
 
 
   
-      ![](/images/2012-04-15-2012415people-are-curious/20120317-GKAR5084.jpg)
+![](/images/2012-04-15-2012415people-are-curious/20120317-GKAR5084.jpg)
 

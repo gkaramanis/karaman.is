@@ -21,7 +21,7 @@ code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-23](https://gi
 
 
   
-   ![](/images/2019-06-05-20196tidytuesday-1/ramen.png)
+![](/images/2019-06-05-20196tidytuesday-1/ramen.png)
 
   
 

@@ -15,7 +15,7 @@ tags:
 
 
   
-      ![](/images/2012-06-13-20126the-seven-year-itch/20120613-R0010246.jpg)
+![](/images/2012-06-13-20126the-seven-year-itch/20120613-R0010246.jpg)
 
   
 

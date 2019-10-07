@@ -19,42 +19,42 @@ tags:
 
 
   
-   ![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3426.JPG)
+![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3426.JPG)
 
   
 
   
-   ![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3429.JPG)
+![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3429.JPG)
 
   
 
   
-   ![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3427.JPG)
+![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3427.JPG)
 
   
 
   
-   ![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3434.JPG)
+![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3434.JPG)
 
   
 
   
-   ![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3424.JPG)
+![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3424.JPG)
 
   
 
   
-   ![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3430.JPG)
+![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3430.JPG)
 
   
 
   
-   ![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3441.JPG)
+![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3441.JPG)
 
   
 
   
-   ![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3443.JPG)
+![](/images/2012-03-27-portrait-workshop-with-knut-koivisto-day-ii/20120318-IMG_3443.JPG)
 
   
 

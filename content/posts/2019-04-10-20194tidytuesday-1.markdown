@@ -20,5 +20,5 @@ code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2015
 
 
   
-      ![](/images/2019-04-10-20194tidytuesday-1/tennis.png)
+![](/images/2019-04-10-20194tidytuesday-1/tennis.png)
 

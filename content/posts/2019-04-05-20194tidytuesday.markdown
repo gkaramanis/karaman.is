@@ -23,5 +23,5 @@ code: [https://github.com/gkaramanis/tidytuesday/tree/master/week%2014 …](http
 
 
   
-      ![](/images/2019-04-05-20194tidytuesday/bikes.png)
+![](/images/2019-04-05-20194tidytuesday/bikes.png)
 

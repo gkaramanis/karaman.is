@@ -16,13 +16,13 @@ More double exposure fun!
 
 
   
-      ![](/images/2012-11-01-201211the-tree-in-everything/20121031-R0012221+copy.jpg)
+![](/images/2012-11-01-201211the-tree-in-everything/20121031-R0012221+copy.jpg)
 
   
 
 
   
-      ![](/images/2012-11-01-201211the-tree-in-everything/20121031-R0012213.jpg)
+![](/images/2012-11-01-201211the-tree-in-everything/20121031-R0012213.jpg)
 
   
 

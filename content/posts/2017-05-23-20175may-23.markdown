@@ -16,12 +16,12 @@ url: /blog/2017/5/may-23
 
 
   
-   ![](/images/2017-05-23-20175may-23/IMG_1216.jpg)
+![](/images/2017-05-23-20175may-23/IMG_1216.jpg)
 
   
 
   
-   ![](/images/2017-05-23-20175may-23/IMG_1217.jpg)
+![](/images/2017-05-23-20175may-23/IMG_1217.jpg)
 
   
 
@@ -29,5 +29,5 @@ url: /blog/2017/5/may-23
 
 
   
-      ![](/images/2017-05-23-20175may-23/image-asset.jpeg)
+![](/images/2017-05-23-20175may-23/image-asset.jpeg)
 

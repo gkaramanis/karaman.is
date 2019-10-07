@@ -11,5 +11,5 @@ Going up.
 
 
   
-      ![](image-asset.gif)
+![](image-asset.gif)
 

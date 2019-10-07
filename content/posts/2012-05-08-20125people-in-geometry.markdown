@@ -18,19 +18,19 @@ tags:
 
 
   
-      ![](/images/2012-05-08-20125people-in-geometry/20120507-GKAR5888.jpg)
+![](/images/2012-05-08-20125people-in-geometry/20120507-GKAR5888.jpg)
 
   
 
 
   
-      ![](/images/2012-05-08-20125people-in-geometry/20120507-GKAR5880.jpg)
+![](/images/2012-05-08-20125people-in-geometry/20120507-GKAR5880.jpg)
 
   
 
 
   
-      ![](/images/2012-05-08-20125people-in-geometry/20120507-GKAR5903.jpg)
+![](/images/2012-05-08-20125people-in-geometry/20120507-GKAR5903.jpg)
 
   
 

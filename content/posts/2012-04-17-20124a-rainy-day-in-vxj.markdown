@@ -25,23 +25,23 @@ They say bad weather is good weather in terms of photography. A month ago I was 
 
 
   
-      ![](/images/2012-04-17-20124a-rainy-day-in-vxj/20120320-GKAR5312.jpg)
+![](/images/2012-04-17-20124a-rainy-day-in-vxj/20120320-GKAR5312.jpg)
 
   
 
 
   
-      ![](/images/2012-04-17-20124a-rainy-day-in-vxj/20120320-GKAR5301.jpg)
+![](/images/2012-04-17-20124a-rainy-day-in-vxj/20120320-GKAR5301.jpg)
 
   
 
 
   
-      ![](/images/2012-04-17-20124a-rainy-day-in-vxj/20120320-GKAR5317.jpg)
+![](/images/2012-04-17-20124a-rainy-day-in-vxj/20120320-GKAR5317.jpg)
 
   
 
 
   
-      ![](/images/2012-04-17-20124a-rainy-day-in-vxj/20120320-GKAR5319.jpg)
+![](/images/2012-04-17-20124a-rainy-day-in-vxj/20120320-GKAR5319.jpg)
 

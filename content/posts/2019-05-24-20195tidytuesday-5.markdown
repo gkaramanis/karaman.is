@@ -20,5 +20,5 @@ A plot about Global Plastic Waste for this week's [#TidyTuesday](https://mobile.
 
 
   
-      ![](/images/2019-05-24-20195tidytuesday-5/waste.png)
+![](/images/2019-05-24-20195tidytuesday-5/waste.png)
 

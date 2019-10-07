@@ -16,7 +16,7 @@ tags:
 
 
   
-      ![](/images/2012-06-17-20126gentleman-in-rain/20120531-GKAR6186.jpg)
+![](/images/2012-06-17-20126gentleman-in-rain/20120531-GKAR6186.jpg)
 
   
 

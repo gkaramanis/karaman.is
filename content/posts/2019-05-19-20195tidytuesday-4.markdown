@@ -20,32 +20,32 @@ code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-20](https://gi
 
 
   
-   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Chemistry.png)
+![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Chemistry.png)
 
   
 
   
-   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Economics.png)
+![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Economics.png)
 
   
 
   
-   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Literature.png)
+![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Literature.png)
 
   
 
   
-   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Medicine.png)
+![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Medicine.png)
 
   
 
   
-   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Peace.png)
+![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Peace.png)
 
   
 
   
-   ![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Physics.png)
+![](/images/2019-05-19-20195tidytuesday-4/nobelShared-Physics.png)
 
   
 

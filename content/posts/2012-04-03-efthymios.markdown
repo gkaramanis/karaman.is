@@ -24,11 +24,11 @@ My "homework" for the portrait [workshop](http://www.georgioskaramanis.com/blog/
 
 
   
-      ![](/images/2012-04-03-efthymios/20120317-GKAR5222.jpg)
+![](/images/2012-04-03-efthymios/20120317-GKAR5222.jpg)
 
   
 
 
   
-      ![](/images/2012-04-03-efthymios/20120317-GKAR5196.jpg)
+![](/images/2012-04-03-efthymios/20120317-GKAR5196.jpg)
 

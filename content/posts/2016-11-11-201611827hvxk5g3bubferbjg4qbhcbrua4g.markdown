@@ -21,7 +21,7 @@ tags:
 
 
   
-      ![](/images/2016-11-11-201611827hvxk5g3bubferbjg4qbhcbrua4g/image-asset.jpeg)
+![](/images/2016-11-11-201611827hvxk5g3bubferbjg4qbhcbrua4g/image-asset.jpeg)
 
   
 

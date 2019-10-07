@@ -26,5 +26,5 @@ Reference image:
 
 
   
-      ![](/images/2014-02-26-20142one-eyed/image.jpg)
+![](/images/2014-02-26-20142one-eyed/image.jpg)
 

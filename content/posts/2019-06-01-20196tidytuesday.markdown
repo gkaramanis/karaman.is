@@ -21,7 +21,7 @@ code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-22](https://gi
 
 
   
-   ![](/images/2019-06-01-20196tidytuesday/wine.png)
+![](/images/2019-06-01-20196tidytuesday/wine.png)
 
   
 
@@ -32,7 +32,7 @@ As a bonus, here is a thing I drew many, many years ago.
 
 
   
-   ![](/images/2019-06-01-20196tidytuesday/static_4f3f61bae4b063b909445965_524d9810e4b0b106ceda9d2b_524d9811e4b09b795fb41f78_1380816915550_wine.jpg)
+![](/images/2019-06-01-20196tidytuesday/static_4f3f61bae4b063b909445965_524d9810e4b0b106ceda9d2b_524d9811e4b09b795fb41f78_1380816915550_wine.jpg)
 
   
 

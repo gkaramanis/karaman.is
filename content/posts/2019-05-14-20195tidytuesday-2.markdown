@@ -19,5 +19,5 @@ code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-20](https://gi
 
 
   
-      ![](/images/2019-05-14-20195tidytuesday-2/image-asset.png)
+![](/images/2019-05-14-20195tidytuesday-2/image-asset.png)
 

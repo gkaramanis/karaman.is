@@ -25,29 +25,29 @@ Here are the photos of the project I had.
 
 
   
-      ![](/images/2012-06-09-20126whats-on-your-head/20120601-GKAR6361.jpg)
+![](/images/2012-06-09-20126whats-on-your-head/20120601-GKAR6361.jpg)
 
   
 
 
   
-      ![](/images/2012-06-09-20126whats-on-your-head/20120601-GKAR6354.jpg)
+![](/images/2012-06-09-20126whats-on-your-head/20120601-GKAR6354.jpg)
 
   
 
 
   
-      ![](/images/2012-06-09-20126whats-on-your-head/20120601-GKAR6355.jpg)
+![](/images/2012-06-09-20126whats-on-your-head/20120601-GKAR6355.jpg)
 
   
 
 
   
-      ![](/images/2012-06-09-20126whats-on-your-head/20120601-GKAR6360.jpg)
+![](/images/2012-06-09-20126whats-on-your-head/20120601-GKAR6360.jpg)
 
   
 
 
   
-      ![](/images/2012-06-09-20126whats-on-your-head/20120602-GKAR6475.jpg)
+![](/images/2012-06-09-20126whats-on-your-head/20120602-GKAR6475.jpg)
 

@@ -10,7 +10,7 @@ url: /blog/p9828nllezndast9r2fdz743rrsary
 
 
   
-   ![](/images/2017-08-30-p9828nllezndast9r2fdz743rrsary/IMG_2195.jpg)
+![](/images/2017-08-30-p9828nllezndast9r2fdz743rrsary/IMG_2195.jpg)
 
   
 

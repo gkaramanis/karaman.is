@@ -19,17 +19,17 @@ The rest of from this Monday's double exposures.
 
 
   
-   ![](/images/2016-04-20-20164doubles-buildings/20160418-DSCF8311.jpg)
+![](/images/2016-04-20-20164doubles-buildings/20160418-DSCF8311.jpg)
 
   
 
   
-   ![](/images/2016-04-20-20164doubles-buildings/20160418-DSCF8320.jpg)
+![](/images/2016-04-20-20164doubles-buildings/20160418-DSCF8320.jpg)
 
   
 
   
-   ![](/images/2016-04-20-20164doubles-buildings/20160418-DSCF8324.jpg)
+![](/images/2016-04-20-20164doubles-buildings/20160418-DSCF8324.jpg)
 
   
 

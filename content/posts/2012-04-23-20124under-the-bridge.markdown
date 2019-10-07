@@ -29,17 +29,17 @@ Photos taken in Växjö, Sweden during [the rainy day](http://www.georgioskarama
 
 
   
-      ![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5350.jpg)
+![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5350.jpg)
 
   
 
 
   
-      ![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5383.jpg)
+![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5383.jpg)
 
   
 
 
   
-      ![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5390.jpg)
+![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5390.jpg)
 

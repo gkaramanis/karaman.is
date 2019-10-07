@@ -13,5 +13,5 @@ url: /blog/2017/3/march-5
 
 
   
-      ![](/images/2017-03-05-20173march-5/image-asset.jpeg)
+![](/images/2017-03-05-20173march-5/image-asset.jpeg)
 

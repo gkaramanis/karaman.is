@@ -20,13 +20,13 @@ Click on the images to see them larger.
 
 
   
-      ![](/images/2012-11-16-fake-reflections/20121102-R0012357.jpg)
+![](/images/2012-11-16-fake-reflections/20121102-R0012357.jpg)
 
   
 
 
   
-      ![](/images/2012-11-16-fake-reflections/20121104-R0012426.jpg)
+![](/images/2012-11-16-fake-reflections/20121104-R0012426.jpg)
 
   
 

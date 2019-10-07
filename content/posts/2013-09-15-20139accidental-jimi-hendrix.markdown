@@ -15,5 +15,5 @@ I was playing around with [Koalas to the Max](http://koalastothemax.com) and I a
 
 
   
-      ![](/images/2013-09-15-20139accidental-jimi-hendrix/Screen+Shot+2013-09-01+at+11.50.34+AM.png)
+![](/images/2013-09-15-20139accidental-jimi-hendrix/Screen+Shot+2013-09-01+at+11.50.34+AM.png)
 

@@ -19,7 +19,7 @@ tags:
 
 
   
-      ![](/images/2013-02-17-20132at-the-supermarket/20130215-R0013082.jpg)
+![](/images/2013-02-17-20132at-the-supermarket/20130215-R0013082.jpg)
 
   
 

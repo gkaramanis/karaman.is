@@ -17,13 +17,13 @@ The last double exposure shots before the snow fell.
 
 
   
-      ![](/images/2012-12-03-201212before-the-snow-fell/20121121-R0012494.jpg)
+![](/images/2012-12-03-201212before-the-snow-fell/20121121-R0012494.jpg)
 
   
 
 
   
-      ![](/images/2012-12-03-201212before-the-snow-fell/20121121-R0012495.jpg)
+![](/images/2012-12-03-201212before-the-snow-fell/20121121-R0012495.jpg)
 
   
 

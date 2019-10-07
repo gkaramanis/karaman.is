@@ -20,5 +20,5 @@ code: [https://github.com/gkaramanis/tidytuesday/tree/master/week%2011 …](http
 
 
   
-      ![](/images/2019-03-12-20193tidytuesday-1/gametitles.png)
+![](/images/2019-03-12-20193tidytuesday-1/gametitles.png)
 
