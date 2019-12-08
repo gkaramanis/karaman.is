@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>waste on Georgios Karamanis</title>
@@ -18,9 +18,8 @@
       <pubDate>Fri, 24 May 2019 03:22:27 +0000</pubDate>
       
       <guid>/blog/2019/5/tidytuesday-5/</guid>
-      <description>A plot about Global Plastic Waste for this week&amp;rsquo;s #TidyTuesday. I sacrificed accuracy for looks and I liked it :)
-code
- ![](/images/2019-05-24-20195tidytuesday-5/waste.png)  </description>
+      <description>A plot about Global Plastic Waste for this week&#39;s #TidyTuesday. I sacrificed accuracy for looks and I liked it :)
+code</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Georgios Karamanis</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Georgios Karamanis</copyright>
-    <lastBuildDate>Mon, 15 Jul 2019 03:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 03:05:34 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Code</title>
+      <link>/categories/code/</link>
+      <pubDate>Thu, 18 Jul 2019 03:05:34 +0000</pubDate>
+      
+      <guid>/categories/code/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Photography</title>
@@ -18,15 +27,6 @@
       <pubDate>Mon, 15 Jul 2019 03:05:34 +0000</pubDate>
       
       <guid>/categories/photography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>/categories/code/</link>
-      <pubDate>Fri, 05 Jul 2019 20:33:05 +0000</pubDate>
-      
-      <guid>/categories/code/</guid>
       <description></description>
     </item>
     

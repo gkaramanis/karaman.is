@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sun on Georgios Karamanis</title>
@@ -37,9 +37,9 @@
       
       <guid>/blog/2018/4/week-15/</guid>
       <description>The spring is here
-Oh, the sun and the buildings!
-Light and shadow play indoors
-Music!</description>
+ Oh, the sun and the buildings!
+ Light and shadow play indoors
+ Music!</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@ Music!</description>
       
       <guid>/blog/2018/2/week-6/</guid>
       <description>Outside
-Inside</description>
+ Inside</description>
     </item>
     
     <item>
@@ -58,7 +58,7 @@ Inside</description>
       <pubDate>Mon, 14 Nov 2016 17:48:00 +0000</pubDate>
       
       <guid>/blog/2016/11/hanging-suns/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1000.0&amp;rdquo;]Milos, Greece [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1000.0&amp;rdquo;]Milos, Greece [/caption]</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@ Inside</description>
       <pubDate>Sat, 27 Sep 2014 15:43:06 +0000</pubDate>
       
       <guid>/blog/2014/9/summer-suns/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Zakynthos, Greece [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Zakynthos, Greece [/caption]</description>
     </item>
     
   </channel>

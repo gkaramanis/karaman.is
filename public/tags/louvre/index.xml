@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Louvre on Georgios Karamanis</title>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 28 Mar 2013 21:22:05 +0000</pubDate>
       
       <guid>/blog/2013/3/bald-men/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1125.0&amp;rdquo;]Paris, France [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1125.0&amp;rdquo;]Paris, France [/caption]</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       <pubDate>Mon, 18 Mar 2013 16:48:11 +0000</pubDate>
       
       <guid>/blog/2013/3/triangle/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Paris, France [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Paris, France [/caption]</description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@
       <pubDate>Wed, 13 Mar 2013 19:47:09 +0000</pubDate>
       
       <guid>/blog/2013/3/work-in-progress/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1125.0&amp;rdquo;]Paris, France [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1125.0&amp;rdquo;]Paris, France [/caption]</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 27 Feb 2013 20:37:30 +0000</pubDate>
       
       <guid>/blog/2013/2/mona-lisa/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1125.0&amp;rdquo;]Paris, France [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1125.0&amp;rdquo;]Paris, France [/caption]</description>
     </item>
     
   </channel>

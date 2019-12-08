@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>garden on Georgios Karamanis</title>
@@ -36,7 +36,7 @@
       <pubDate>Fri, 01 Sep 2017 17:29:00 +0000</pubDate>
       
       <guid>/blog/2017/9/leaves/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Marrakech, Morocco [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Marrakech, Morocco [/caption]</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Wed, 08 Feb 2017 19:43:19 +0000</pubDate>
       
       <guid>/blog/2017/2/gardens/</guid>
-      <description>The photo on Instagram  ![](/images/2017-02-08-20172gardens/IMG_0621.JPG)  Marrakech, Morocco</description>
+      <description>The photo on Instagram Marrakech, Morocco</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>station on Georgios Karamanis</title>
@@ -18,7 +18,7 @@
       <pubDate>Fri, 15 Sep 2017 17:39:00 +0000</pubDate>
       
       <guid>/blog/2017/9/mood/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Helsingør, Denmark [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Helsingør, Denmark [/caption]</description>
     </item>
     
     <item>
@@ -27,8 +27,8 @@
       <pubDate>Sat, 23 Nov 2013 20:01:39 +0000</pubDate>
       
       <guid>/blog/2013/11/meeting-point/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Tierp, Sweden [/caption]
-From the project &amp;ldquo;Evidence of Absence&amp;rdquo;.</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Tierp, Sweden [/caption]
+From the project &amp;ldquo;Evidence of Absence&amp;quot;.</description>
     </item>
     
     <item>
@@ -37,8 +37,7 @@ From the project &amp;ldquo;Evidence of Absence&amp;rdquo;.</description>
       <pubDate>Fri, 04 May 2012 09:59:39 +0000</pubDate>
       
       <guid>/blog/2012/5/around-the-station/</guid>
-      <description>Three weeks ago Niklas and I went for a photowalk around the Central Station in Uppsala.
- ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5623.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5628.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5633.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5630.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5649.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5641.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5659.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5645.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5655.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5662.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5673.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5677.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5687.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5693.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5709.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5697.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5725.jpg)  </description>
+      <description>Three weeks ago Niklas and I went for a photowalk around the Central Station in Uppsala.</description>
     </item>
     
   </channel>

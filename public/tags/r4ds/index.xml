@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R4DS on Georgios Karamanis</title>
+    <link>/tags/r4ds/</link>
+    <description>Recent content in R4DS on Georgios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Georgios Karamanis</copyright>
+    <lastBuildDate>Thu, 18 Jul 2019 03:05:34 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r4ds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tidytuesday</title>
+      <link>/blog/2019/18/tidytuesday-2/</link>
+      <pubDate>Thu, 18 Jul 2019 03:05:34 +0000</pubDate>
+      
+      <guid>/blog/2019/18/tidytuesday-2/</guid>
+      <description>Continuing to explore sparklines for #TidyTuesday, looking at daily messages in public channels on the #Slack community of @R4DScommunity
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week-29</description>
+    </item>
+    
+  </channel>
+</rss>

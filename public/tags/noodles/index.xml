@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>noodles on Georgios Karamanis</title>
@@ -18,7 +18,7 @@
       <pubDate>Wed, 05 Jun 2019 17:42:02 +0000</pubDate>
       
       <guid>/blog/2019/6/tidytuesday-1/</guid>
-      <description>Instant ramen reviews by @theramenrater for #TidyTuesday. Good luck reading the text, but couldn&amp;rsquo;t help it, it was too much fun making this plot!
+      <description>Instant ramen reviews by @theramenrater for #TidyTuesday. Good luck reading the text, but couldn&#39;t help it, it was too much fun making this plot!
 code: https://github.com/gkaramanis/tidytuesday/tree/master/week-23</description>
     </item>
     

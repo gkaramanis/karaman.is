@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>code on Georgios Karamanis</title>
@@ -18,9 +18,8 @@
       <pubDate>Tue, 12 Mar 2019 20:55:56 +0000</pubDate>
       
       <guid>/blog/2019/3/tidytuesday-1/</guid>
-      <description>My second submission for #TidyTuesday. I&amp;rsquo;m quite happy with the plot, not so sure about the title and the &amp;ldquo;message&amp;rdquo;, any feedback is welcome!
-code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2011 …
- ![](/images/2019-03-12-20193tidytuesday-1/gametitles.png)  </description>
+      <description>My second submission for #TidyTuesday. I&#39;m quite happy with the plot, not so sure about the title and the &amp;ldquo;message&amp;rdquo;, any feedback is welcome!
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2011 …</description>
     </item>
     
   </channel>

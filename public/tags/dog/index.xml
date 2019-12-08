@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dog on Georgios Karamanis</title>
@@ -45,7 +45,7 @@
       <pubDate>Mon, 10 Feb 2014 19:59:06 +0000</pubDate>
       
       <guid>/blog/2014/2/eyes-of-the-beast/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]San Francisco, USA [/caption]
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]San Francisco, USA [/caption]
  [caption id=&amp;quot;&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;1500.0&amp;quot;]![ Thessaloniki, Greece ](/images/2014-02-10-20142eyes-of-the-beast/20121224-R0012695.jpg)  Thessaloniki, Greece [/caption]</description>
     </item>
     
@@ -55,7 +55,7 @@
       <pubDate>Wed, 21 Aug 2013 18:15:50 +0000</pubDate>
       
       <guid>/blog/2013/8/wilfred/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
     </item>
     
     <item>
@@ -64,7 +64,7 @@
       <pubDate>Fri, 26 Oct 2012 17:09:00 +0000</pubDate>
       
       <guid>/blog/2012/10/dog-watch/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Malmö, Sweden[/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Malmö, Sweden[/caption]</description>
     </item>
     
     <item>
@@ -73,7 +73,7 @@
       <pubDate>Tue, 16 Oct 2012 10:38:09 +0000</pubDate>
       
       <guid>/blog/2012/10/dogs-dont-tell-jokes/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Stockholm, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Stockholm, Sweden [/caption]</description>
     </item>
     
     <item>
@@ -101,8 +101,7 @@
       <pubDate>Thu, 03 May 2012 16:11:34 +0000</pubDate>
       
       <guid>/blog/2012/5/the-matchmaker/</guid>
-      <description>Växjö, Sweden
- ![](/images/2012-05-03-20125the-matchmaker/20120321-GKAR5439.jpg)  </description>
+      <description>Växjö, Sweden</description>
     </item>
     
   </channel>

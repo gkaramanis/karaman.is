@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elsa on Georgios Karamanis</title>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 18 Oct 2017 17:39:00 +0000</pubDate>
       
       <guid>/blog/2017/10/big-smile/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Wed, 11 Oct 2017 17:29:00 +0000</pubDate>
       
       <guid>/blog/2017/10/of-light-and-shadows/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
     </item>
     
     <item>
@@ -45,8 +45,7 @@
       <pubDate>Mon, 30 Sep 2013 18:23:29 +0000</pubDate>
       
       <guid>/blog/2013/9/elsa-ii/</guid>
-      <description>Black and white photos from the second photoshoot with Elsa of CloudPearls.
- ![](/images/2013-09-30-20139elsa-ii/20130826-GKAR7436.jpg) ![](/images/2013-09-30-20139elsa-ii/20130826-GKAR7521.jpg)  </description>
+      <description>Black and white photos from the second photoshoot with Elsa of CloudPearls.</description>
     </item>
     
     <item>

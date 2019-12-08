@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloud on Georgios Karamanis</title>
@@ -55,9 +55,9 @@
       
       <guid>/blog/2018/6/week-23/</guid>
       <description>Vegetation
-Clouds
-Geometry
-Mood</description>
+ Clouds
+ Geometry
+ Mood</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@ Mood</description>
       <pubDate>Mon, 26 Sep 2016 17:01:01 +0000</pubDate>
       
       <guid>/blog/2016/9/a-cloud-is-hanging-over-my-head/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Milos, Greece [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Milos, Greece [/caption]</description>
     </item>
     
   </channel>

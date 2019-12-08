@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aliens on Georgios Karamanis</title>
@@ -18,7 +18,7 @@
       <pubDate>Tue, 25 Jun 2019 20:15:09 +0000</pubDate>
       
       <guid>/blog/2019/6/tidytuesday-4/</guid>
-      <description>UFO sightings for #TidyTuesday and I look at the top 10 cities in the world with the most reported encounters (all in the US). I didn&amp;rsquo;t do any data cleaning at all, so the numbers shown may not correspond to reality 😄
+      <description>UFO sightings for #TidyTuesday and I look at the top 10 cities in the world with the most reported encounters (all in the US). I didn&#39;t do any data cleaning at all, so the numbers shown may not correspond to reality 😄
 code</description>
     </item>
     

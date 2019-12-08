@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>economy on Georgios Karamanis</title>
@@ -20,8 +20,7 @@
       <guid>/blog/2019/4/tidytuesday-3/</guid>
       <description>For this week’s #TidyTuesday I wanted to make an aesthetically pleasing but intentionally misleading plot, starting from someone else’s good one.
 So, here is the original by @theotheredgar and my (worse) version:
-code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2016
- ![](/images/2019-04-19-20194tidytuesday-3/image-asset.png)  </description>
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2016</description>
     </item>
     
   </channel>

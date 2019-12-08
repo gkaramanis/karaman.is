@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Georgios Karamanis</title>
@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Georgios Karamanis</copyright>
-    <lastBuildDate>Mon, 15 Jul 2019 03:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 03:05:34 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>football</title>
-      <link>/tags/football/</link>
-      <pubDate>Mon, 15 Jul 2019 03:05:34 +0000</pubDate>
-      
-      <guid>/tags/football/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>plot</title>
       <link>/tags/plot/</link>
-      <pubDate>Mon, 15 Jul 2019 03:05:34 +0000</pubDate>
+      <pubDate>Thu, 18 Jul 2019 03:05:34 +0000</pubDate>
       
       <guid>/tags/plot/</guid>
       <description></description>
@@ -33,9 +24,36 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Mon, 15 Jul 2019 03:05:34 +0000</pubDate>
+      <pubDate>Thu, 18 Jul 2019 03:05:34 +0000</pubDate>
       
       <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R4DS</title>
+      <link>/tags/r4ds/</link>
+      <pubDate>Thu, 18 Jul 2019 03:05:34 +0000</pubDate>
+      
+      <guid>/tags/r4ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slack</title>
+      <link>/tags/slack/</link>
+      <pubDate>Thu, 18 Jul 2019 03:05:34 +0000</pubDate>
+      
+      <guid>/tags/slack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>football</title>
+      <link>/tags/football/</link>
+      <pubDate>Mon, 15 Jul 2019 03:05:34 +0000</pubDate>
+      
+      <guid>/tags/football/</guid>
       <description></description>
     </item>
     

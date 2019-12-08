@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cat on Georgios Karamanis</title>
@@ -18,9 +18,8 @@
       <pubDate>Thu, 28 Mar 2019 20:30:04 +0000</pubDate>
       
       <guid>/blog/2019/3/tidytuesday-3/</guid>
-      <description>Tried to do letter frequencies for this week&amp;rsquo;s #TidyTuesday but it proved to be too hard for a newbie! 🤷🏽‍♀️ So, I made a simpler one with an overlay image of a cat, because internet!
-code: (link: https://github.com/gkaramanis/tidytuesday/tree/master/week%2013) github.com/gkaramanis/tid…
- ![](/images/2019-03-28-20193tidytuesday-3/pets.png)  </description>
+      <description>Tried to do letter frequencies for this week&#39;s #TidyTuesday but it proved to be too hard for a newbie! 🤷🏽‍♀️ So, I made a simpler one with an overlay image of a cat, because internet!
+code: (link: https://github.com/gkaramanis/tidytuesday/tree/master/week%2013) github.com/gkaramanis/tid…</description>
     </item>
     
     <item>
@@ -56,7 +55,7 @@ code: (link: https://github.com/gkaramanis/tidytuesday/tree/master/week%2013) gi
       <pubDate>Mon, 10 Feb 2014 19:59:06 +0000</pubDate>
       
       <guid>/blog/2014/2/eyes-of-the-beast/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]San Francisco, USA [/caption]
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]San Francisco, USA [/caption]
  [caption id=&amp;quot;&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;1500.0&amp;quot;]![ Thessaloniki, Greece ](/images/2014-02-10-20142eyes-of-the-beast/20121224-R0012695.jpg)  Thessaloniki, Greece [/caption]</description>
     </item>
     

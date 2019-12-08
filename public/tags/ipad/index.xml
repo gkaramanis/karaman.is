@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iPad on Georgios Karamanis</title>
@@ -28,7 +28,7 @@
       
       <guid>/blog/2014/2/one-eyed/</guid>
       <description>Reference image:
-  ![](/images/2014-02-26-20142one-eyed/image.jpg)  </description>
+ </description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       <pubDate>Sat, 22 Feb 2014 19:45:48 +0000</pubDate>
       
       <guid>/blog/2014/2/owl/</guid>
-      <description>![](/images/2014-02-22-20142owl/image.jpg)  Reference image:</description>
+      <description>Reference image:</description>
     </item>
     
     <item>
@@ -46,8 +46,7 @@
       <pubDate>Mon, 17 Feb 2014 18:53:11 +0000</pubDate>
       
       <guid>/blog/2014/2/tiger/</guid>
-      <description>Copy of &amp;ldquo;Tiger&amp;rdquo; by Franz Marc.
- ![](/images/2014-02-17-20142tiger/20140217-Tiger.jpg)  </description>
+      <description>Copy of &amp;ldquo;Tiger&amp;rdquo; by Franz Marc.</description>
     </item>
     
     <item>
@@ -65,8 +64,7 @@
       <pubDate>Sat, 05 May 2012 12:53:33 +0000</pubDate>
       
       <guid>/blog/2012/5/the-butterfly-photographer/</guid>
-      <description>I take photos with my camera and make mixels on my iPad, so I thought I should make some mixels about photography.
- ![](/images/2012-05-05-20125the-butterfly-photographer/20120505-IMG_0213.jpg)  </description>
+      <description>I take photos with my camera and make mixels on my iPad, so I thought I should make some mixels about photography.</description>
     </item>
     
   </channel>

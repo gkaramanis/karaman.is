@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>anime on Georgios Karamanis</title>
@@ -19,8 +19,7 @@
       
       <guid>/blog/2019/4/tidytuesday-4/</guid>
       <description>#TidyTuesday submission, a plot of #Anime age ratings by genre. Seems that there a lot of PG-13 titles and especially in the comedy genre. Also, no R titles in the kids genre 🤔
-code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2017
- ![](/images/2019-04-23-20194tidytuesday-4/anime.png)  </description>
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2017</description>
     </item>
     
   </channel>

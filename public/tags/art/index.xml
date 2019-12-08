@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>art on Georgios Karamanis</title>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 30 Oct 2017 18:29:00 +0000</pubDate>
       
       <guid>/blog/2017/10/strange-hat/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;994.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;994.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@
       <pubDate>Thu, 09 Feb 2017 18:39:00 +0000</pubDate>
       
       <guid>/blog/2017/2/ornate-door/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1000.0&amp;rdquo;]Marrakech, Morocco [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1000.0&amp;rdquo;]Marrakech, Morocco [/caption]</description>
     </item>
     
     <item>
@@ -127,7 +127,7 @@
       <pubDate>Sat, 22 Feb 2014 19:45:48 +0000</pubDate>
       
       <guid>/blog/2014/2/owl/</guid>
-      <description>![](/images/2014-02-22-20142owl/image.jpg)  Reference image:</description>
+      <description>Reference image:</description>
     </item>
     
     <item>
@@ -136,8 +136,7 @@
       <pubDate>Mon, 17 Feb 2014 18:53:11 +0000</pubDate>
       
       <guid>/blog/2014/2/tiger/</guid>
-      <description>Copy of &amp;ldquo;Tiger&amp;rdquo; by Franz Marc.
- ![](/images/2014-02-17-20142tiger/20140217-Tiger.jpg)  </description>
+      <description>Copy of &amp;ldquo;Tiger&amp;rdquo; by Franz Marc.</description>
     </item>
     
     <item>
@@ -155,7 +154,7 @@
       <pubDate>Thu, 28 Mar 2013 21:22:05 +0000</pubDate>
       
       <guid>/blog/2013/3/bald-men/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1125.0&amp;rdquo;]Paris, France [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1125.0&amp;rdquo;]Paris, France [/caption]</description>
     </item>
     
     <item>
@@ -164,7 +163,7 @@
       <pubDate>Wed, 27 Feb 2013 20:37:30 +0000</pubDate>
       
       <guid>/blog/2013/2/mona-lisa/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1125.0&amp;rdquo;]Paris, France [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1125.0&amp;rdquo;]Paris, France [/caption]</description>
     </item>
     
   </channel>

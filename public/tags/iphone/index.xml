@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iPhone on Georgios Karamanis</title>
@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Feb 2016 18:15:17 +0000</pubDate>
       
       <guid>/blog/2016/2/gothenburg/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Gothenburg, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Gothenburg, Sweden [/caption]</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <pubDate>Wed, 27 Feb 2013 20:37:30 +0000</pubDate>
       
       <guid>/blog/2013/2/mona-lisa/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1125.0&amp;rdquo;]Paris, France [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1125.0&amp;rdquo;]Paris, France [/caption]</description>
     </item>
     
     <item>
@@ -82,8 +82,7 @@
       <pubDate>Wed, 30 May 2012 19:08:35 +0000</pubDate>
       
       <guid>/blog/2012/5/wide/</guid>
-      <description>Four photos taken with my iPhone in Uppsala, Sweden.
- ![](/images/2012-05-30-20125wide/20120525-IMG_4046.jpg) ![](/images/2012-05-30-20125wide/20120525-IMG_3981.jpg) ![](/images/2012-05-30-20125wide/20120525-IMG_4051.jpg) ![](/images/2012-05-30-20125wide/20120528-IMG_4134.jpg)  </description>
+      <description>Four photos taken with my iPhone in Uppsala, Sweden.</description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wine on Georgios Karamanis</title>
@@ -18,7 +18,7 @@
       <pubDate>Sat, 01 Jun 2019 20:47:34 +0000</pubDate>
       
       <guid>/blog/2019/6/tidytuesday/</guid>
-      <description>#TidyTuesday! Food pairings for the top 5 varieties, as recommended by reviewers. I don&amp;rsquo;t like the lines in the plot but couldn&amp;rsquo;t find anything better. The code is hacky and messy but I learned a ton with this one!
+      <description>#TidyTuesday! Food pairings for the top 5 varieties, as recommended by reviewers. I don&#39;t like the lines in the plot but couldn&#39;t find anything better. The code is hacky and messy but I learned a ton with this one!
 code: https://github.com/gkaramanis/tidytuesday/tree/master/week-22
 As a bonus, here is a thing I drew many, many years ago.</description>
     </item>

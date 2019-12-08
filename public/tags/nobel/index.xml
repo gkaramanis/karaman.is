@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nobel on Georgios Karamanis</title>
@@ -18,7 +18,7 @@
       <pubDate>Sun, 19 May 2019 14:07:55 +0000</pubDate>
       
       <guid>/blog/2019/5/tidytuesday-4/</guid>
-      <description>Third and last submission for #NobelPrize #TidyTuesday. Looked at shared prizes across the 6 categories, really like the result. Inspired by @spren9er&amp;rsquo;s plot &amp;ldquo;Still a man&amp;rsquo;s world&amp;rdquo;, and got big help from his code
+      <description>Third and last submission for #NobelPrize #TidyTuesday. Looked at shared prizes across the 6 categories, really like the result. Inspired by @spren9er&amp;lsquo;s plot &amp;ldquo;Still a man&#39;s world&amp;quot;, and got big help from his code
 code: https://github.com/gkaramanis/tidytuesday/tree/master/week-20</description>
     </item>
     
@@ -29,8 +29,7 @@ code: https://github.com/gkaramanis/tidytuesday/tree/master/week-20</description
       
       <guid>/blog/2019/5/tidytuesday-3/</guid>
       <description>A second submission for the #Nobelprize #TidyTuesday! The same data as the first one but this time on a world map.
-code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-20]()
- ![](/images/2019-05-17-20195tidytuesday-3/nobelMap.png)  </description>
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week-20</description>
     </item>
     
     <item>
@@ -39,9 +38,8 @@ code: [https://github.com/gkaramanis/tidytuesday/tree/master/week-20]()
       <pubDate>Tue, 14 May 2019 20:09:39 +0000</pubDate>
       
       <guid>/blog/2019/5/tidytuesday-2/</guid>
-      <description>#NobelPrize winners for this week&amp;rsquo;s #TidyTuesday, I looked at birth and death countries. I liked the way the plot turned out, but too much text&amp;hellip;
-code: https://github.com/gkaramanis/tidytuesday/tree/master/week-20
- ![](/images/2019-05-14-20195tidytuesday-2/image-asset.png)  </description>
+      <description>#NobelPrize winners for this week&#39;s #TidyTuesday, I looked at birth and death countries. I liked the way the plot turned out, but too much text&amp;hellip;
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week-20</description>
     </item>
     
   </channel>

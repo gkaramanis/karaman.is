@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -19,7 +19,47 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-07-15T03:05:34+00:00</lastmod>
+    <lastmod>2019-07-18T03:05:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/code/</loc>
+    <lastmod>2019-07-18T03:05:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2019-07-18T03:05:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-07-18T03:05:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-07-18T03:05:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r4ds/</loc>
+    <lastmod>2019-07-18T03:05:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/slack/</loc>
+    <lastmod>2019-07-18T03:05:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-18T03:05:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/18/tidytuesday-2/</loc>
+    <lastmod>2019-07-18T03:05:34+00:00</lastmod>
   </url>
   
   <url>
@@ -29,26 +69,6 @@
   
   <url>
     <loc>/categories/photography/</loc>
-    <lastmod>2019-07-15T03:05:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2019-07-15T03:05:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-07-15T03:05:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2019-07-15T03:05:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-07-15T03:05:34+00:00</lastmod>
   </url>
   
@@ -118,17 +138,7 @@
   </url>
   
   <url>
-    <loc>/dataviz/</loc>
-    <lastmod>2019-07-05T20:37:46+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2019/7/tidytuesday/</loc>
-    <lastmod>2019-07-05T20:33:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/code/</loc>
     <lastmod>2019-07-05T20:33:05+00:00</lastmod>
   </url>
   
@@ -275,11 +285,6 @@
   <url>
     <loc>/blog/2019/6/week-23/</loc>
     <lastmod>2019-06-09T14:53:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2019-06-09T05:47:02+00:00</lastmod>
   </url>
   
   <url>
@@ -5848,11 +5853,6 @@
   </url>
   
   <url>
-    <loc>/street/</loc>
-    <lastmod>2013-06-16T17:32:18+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2013/6/black-and-white/</loc>
     <lastmod>2013-06-15T17:31:11+00:00</lastmod>
   </url>
@@ -6380,11 +6380,6 @@
   <url>
     <loc>/blog/2012/12/snow/</loc>
     <lastmod>2012-12-21T19:14:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/videos/</loc>
-    <lastmod>2012-12-17T18:12:46+00:00</lastmod>
   </url>
   
   <url>
@@ -7023,7 +7018,23 @@
   </url>
   
   <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
     <loc>/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>/dataviz/</loc>
+  </url>
+  
+  <url>
+    <loc>/street/</loc>
+  </url>
+  
+  <url>
+    <loc>/videos/</loc>
   </url>
   
 </urlset>

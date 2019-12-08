@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sign on Georgios Karamanis</title>
@@ -28,9 +28,9 @@
       
       <guid>/blog/2018/6/week-23/</guid>
       <description>Vegetation
-Clouds
-Geometry
-Mood</description>
+ Clouds
+ Geometry
+ Mood</description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@ Mood</description>
       <pubDate>Thu, 05 Jan 2017 18:30:00 +0000</pubDate>
       
       <guid>/blog/2017/1/palm-tree/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Marrakech, Morocco [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Marrakech, Morocco [/caption]</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ Mood</description>
       <pubDate>Sat, 26 Apr 2014 12:03:19 +0000</pubDate>
       
       <guid>/blog/2014/4/for-sale/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Stockholm, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Stockholm, Sweden [/caption]</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ Mood</description>
       <pubDate>Sat, 13 Apr 2013 16:32:18 +0000</pubDate>
       
       <guid>/blog/2013/4/people-and-shadows/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bicycle on Georgios Karamanis</title>
@@ -19,8 +19,7 @@
       
       <guid>/blog/2019/4/tidytuesday/</guid>
       <description>Late #TidyTuesday submission.
-code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2014 …
- ![](/images/2019-04-05-20194tidytuesday/bikes.png)  </description>
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2014 …</description>
     </item>
     
     <item>
@@ -65,7 +64,7 @@ code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2014 …
       <pubDate>Sun, 15 Jul 2018 17:00:00 +0000</pubDate>
       
       <guid>/blog/2018/7/week-28/</guid>
-      <description></description>
+      <description>    </description>
     </item>
     
     <item>
@@ -75,10 +74,10 @@ code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2014 …
       
       <guid>/blog/2018/5/week-20/</guid>
       <description>This week, even more buildings!
-Vertical edges
-Dead things
-Living and colourful things
-Tiles</description>
+ Vertical edges
+ Dead things
+ Living and colourful things
+ Tiles</description>
     </item>
     
     <item>
@@ -87,7 +86,7 @@ Tiles</description>
       <pubDate>Wed, 01 Nov 2017 18:29:00 +0000</pubDate>
       
       <guid>/blog/2017/11/zigzag/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
     </item>
     
     <item>
@@ -96,7 +95,7 @@ Tiles</description>
       <pubDate>Sun, 08 Jan 2017 19:01:30 +0000</pubDate>
       
       <guid>/blog/2017/1/red-wall/</guid>
-      <description>[A video posted by Georgios Karamanis (@gkaramanis)](https://www.instagram.com/p/BPA4ps9ALeI/) on Jan 8, 2017 at 10:42am PST    </description>
+      <description></description>
     </item>
     
     <item>
@@ -115,7 +114,7 @@ Tiles</description>
       <pubDate>Sat, 13 Apr 2013 16:32:18 +0000</pubDate>
       
       <guid>/blog/2013/4/people-and-shadows/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
     </item>
     
     <item>
@@ -133,7 +132,7 @@ Tiles</description>
       <pubDate>Sat, 18 Aug 2012 08:19:05 +0000</pubDate>
       
       <guid>/blog/2012/8/red-light/</guid>
-      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignnone&amp;rdquo; width=&amp;quot;1500.0&amp;rdquo;]Uppsala, Sweden [/caption]</description>
     </item>
     
     <item>
@@ -151,8 +150,7 @@ Tiles</description>
       <pubDate>Fri, 04 May 2012 09:59:39 +0000</pubDate>
       
       <guid>/blog/2012/5/around-the-station/</guid>
-      <description>Three weeks ago Niklas and I went for a photowalk around the Central Station in Uppsala.
- ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5623.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5628.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5633.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5630.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5649.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5641.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5659.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5645.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5655.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5662.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5673.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5677.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5687.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5693.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5709.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5697.jpg) ![](/images/2012-05-04-20125around-the-station/20120411-GKAR5725.jpg)  </description>
+      <description>Three weeks ago Niklas and I went for a photowalk around the Central Station in Uppsala.</description>
     </item>
     
     <item>
@@ -161,7 +159,7 @@ Tiles</description>
       <pubDate>Tue, 01 May 2012 18:40:43 +0000</pubDate>
       
       <guid>/blog/2012/5/shadows-in-vxj/</guid>
-      <description> ![](/images/2012-05-01-20125shadows-in-vxj/20120321-GKAR5507.jpg) ![](/images/2012-05-01-20125shadows-in-vxj/20120321-GKAR5521.jpg) ![](/images/2012-05-01-20125shadows-in-vxj/20120321-GKAR5520.jpg) ![](/images/2012-05-01-20125shadows-in-vxj/20120321-GKAR5500.jpg)  </description>
+      <description></description>
     </item>
     
     <item>
@@ -170,8 +168,7 @@ Tiles</description>
       <pubDate>Fri, 27 Apr 2012 15:54:40 +0000</pubDate>
       
       <guid>/blog/2012/4/moving/</guid>
-      <description>Jogging, walking and cycling in Växjö, Sweden
- ![](/images/2012-04-27-20124moving/20120321-GKAR5489.jpg) ![](/images/2012-04-27-20124moving/20120321-GKAR5449.jpg) ![](/images/2012-04-27-20124moving/20120321-GKAR5511.jpg)  </description>
+      <description>Jogging, walking and cycling in Växjö, Sweden</description>
     </item>
     
     <item>
@@ -180,8 +177,7 @@ Tiles</description>
       <pubDate>Tue, 24 Apr 2012 18:03:23 +0000</pubDate>
       
       <guid>/blog/2012/4/water-square/</guid>
-      <description>The Vattentorget (Water Square) by the lake in Växjö, Sweden. Sounds logical to me.
- ![](/images/2012-04-24-20124water-square/20120320-GKAR5399.jpg)  </description>
+      <description>The Vattentorget (Water Square) by the lake in Växjö, Sweden. Sounds logical to me.</description>
     </item>
     
     <item>
@@ -190,8 +186,7 @@ Tiles</description>
       <pubDate>Mon, 23 Apr 2012 18:39:03 +0000</pubDate>
       
       <guid>/blog/2012/4/under-the-bridge/</guid>
-      <description>Photos taken in Växjö, Sweden during the rainy day.
- ![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5350.jpg) ![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5383.jpg) ![](/images/2012-04-23-20124under-the-bridge/20120320-GKAR5390.jpg)  </description>
+      <description>Photos taken in Växjö, Sweden during the rainy day.</description>
     </item>
     
   </channel>

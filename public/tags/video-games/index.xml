@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>video games on Georgios Karamanis</title>
@@ -19,7 +19,7 @@
       
       <guid>/blog/2019/7/tidytuesday/</guid>
       <description>#TidyTuesday and I looked at video games franchises and revenue just from the actual video games:
-Second submission for this week&amp;rsquo;s #TidyTuesday, training my circular plot muscles for another challenge :) The labels above the circles are tiny, couldn&amp;rsquo;t come up with any better solution, any feedback or idea is welcome!
+Second submission for this week&#39;s #TidyTuesday, training my circular plot muscles for another challenge :) The labels above the circles are tiny, couldn&#39;t come up with any better solution, any feedback or idea is welcome!
 code: https://github.com/gkaramanis/tidytuesday/tree/master/week-27</description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chicago on Georgios Karamanis</title>
@@ -18,9 +18,8 @@
       <pubDate>Sat, 04 May 2019 11:51:05 +0000</pubDate>
       
       <guid>/blog/2019/5/tidytuesday/</guid>
-      <description>Chicago Bird Collisions for #TidyTuesday. I was close to giving up, but @thomas_mock&amp;rsquo;s Grand Slam plot saved the day and I learned a ton!
-code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2018
- ![](/images/2019-05-04-20195tidytuesday/birds2.png)  </description>
+      <description>Chicago Bird Collisions for #TidyTuesday. I was close to giving up, but @thomas_mock&amp;lsquo;s Grand Slam plot saved the day and I learned a ton!
+code: https://github.com/gkaramanis/tidytuesday/tree/master/week%2018</description>
     </item>
     
   </channel>
