@@ -1,8 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "Academia-hugo-master"
+theme = "hugo-theme-hello-friend"
 paginate = 5
-
+	
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
@@ -43,7 +43,7 @@ paginate = 5
         name = "about"
         url = "/about"
 		weight = 3
-		
+	
       [[languages.en.menu.main]]
         identifier = "dataviz"
         name = "dataviz"
@@ -54,9 +54,14 @@ paginate = 5
         identifier = "street"
         name = "street"
         url = "/street"
+	
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "blog"
+        url = "/blog"
+		weight = 1
 
       [[languages.en.menu.main]]
         identifier = "archive"
         name = "archive"
         url = "/archive"
-		weight = 1
