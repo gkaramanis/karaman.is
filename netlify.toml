@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://karaman.is/tablettraknare"
+  to = "https://oddquirk.com/tools.html"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
