@@ -9,5 +9,5 @@ url: /blog/2012/6/sharing-those-photos-online-pointless
 
 From [](http://www.whattheduck.net/)[What The Duck](http://www.whattheduck.net/)
 
-[![whattheduck.net](http://www.whattheduck.net/sites/default/files/WTD1322.gif)
+[![whattheduck.net](https://www.whattheduck.net/sites/default/files/WTD1322.gif)
 ](http://www.whattheduck.net/strip/1322)

@@ -11,7 +11,7 @@ categories:
 
 Here are the photos I liked most the 13th week of 2013.
 
-[![40](http://farm9.staticflickr.com/8381/8593994182_e526384c2f_b.jpg)
+[![40](https://farm9.staticflickr.com/8381/8593994182_e526384c2f_b.jpg)
 ](http://www.flickr.com/photos/47711525@N04/8593994182)
 Mike Schmidt
 
@@ -19,7 +19,7 @@ Mike Schmidt
 
 
 
-[![74](http://farm9.staticflickr.com/8384/8578896645_c505d5d48d.jpg)
+[![74](https://farm9.staticflickr.com/8384/8578896645_c505d5d48d.jpg)
 ](http://www.flickr.com/photos/44908314@N00/8578896645)
 Koci Hernandez
 
@@ -27,7 +27,7 @@ Koci Hernandez
 
 
 
-[![104](http://farm9.staticflickr.com/8518/8585889385_72b97c3562_b.jpg)
+[![104](https://farm9.staticflickr.com/8518/8585889385_72b97c3562_b.jpg)
 ](http://www.flickr.com/photos/34320927@N06/8585889385)
 Oleg Andreev
 
@@ -35,7 +35,7 @@ Oleg Andreev
 
 
 
-[![1](http://farm9.staticflickr.com/8234/8445104264_8a51c71835_b.jpg)
+[![1](https://farm9.staticflickr.com/8234/8445104264_8a51c71835_b.jpg)
 ](http://www.flickr.com/photos/21171680@N04/8445104264)
 Antonis Damolis
 
@@ -43,7 +43,7 @@ Antonis Damolis
 
 
 
-[![15](http://farm9.staticflickr.com/8237/8598031884_5d5635915f_b.jpg)
+[![15](https://farm9.staticflickr.com/8237/8598031884_5d5635915f_b.jpg)
 ](http://www.flickr.com/photos/8950997@N06/8598031884)
 Denis Cherim
 
@@ -51,7 +51,7 @@ Denis Cherim
 
 
 
-[![120](http://farm8.staticflickr.com/7021/6448811557_242b98bcb3_b.jpg)
+[![120](https://farm8.staticflickr.com/7021/6448811557_242b98bcb3_b.jpg)
 ](http://www.flickr.com/photos/63198319@N05/6448811557)
 S@l@din.B
 
@@ -59,7 +59,7 @@ S@l@din.B
 
 
 
-[![125](http://farm9.staticflickr.com/8514/8575362157_4ed9804a56_b.jpg)
+[![125](https://farm9.staticflickr.com/8514/8575362157_4ed9804a56_b.jpg)
 ](http://www.flickr.com/photos/27987132@N04/8575362157)
 김순인
 
@@ -67,7 +67,7 @@ S@l@din.B
 
 
 
-[![8](http://farm9.staticflickr.com/8233/8599048609_a8137efdc5_b.jpg)
+[![8](https://farm9.staticflickr.com/8233/8599048609_a8137efdc5_b.jpg)
 ](http://www.flickr.com/photos/37493781@N06/8599048609)
 Dimitris Mavrozoumis
 
@@ -75,7 +75,7 @@ Dimitris Mavrozoumis
 
 
 
-[![33](http://farm9.staticflickr.com/8249/8591584639_9d27073b31_b.jpg)
+[![33](https://farm9.staticflickr.com/8249/8591584639_9d27073b31_b.jpg)
 ](http://www.flickr.com/photos/56801905@N04/8591584639)
 Russ Barnes
 
@@ -83,6 +83,6 @@ Russ Barnes
 
 
 
-[![43](http://farm9.staticflickr.com/8531/8593868299_f2393739e0_b.jpg)
+[![43](https://farm9.staticflickr.com/8531/8593868299_f2393739e0_b.jpg)
 ](http://www.flickr.com/photos/37493781@N06/8593868299)
 Dimitris Mavrozoumis
