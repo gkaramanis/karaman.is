@@ -20,7 +20,7 @@ I'm also a [psychiatrist](https://www.akademiska.se/for-patient-och-besokare/hit
 
 * * *
 
-## Send me a message
+## [Send me a message](mailto:georgios@karaman.is)
 
 
 
