@@ -2,7 +2,10 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
-	
+
+[author]
+    name = "Georgios Karamanis"
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
