@@ -12,7 +12,7 @@ tags:
 - R
 ---
 
-Palmer penguins for #TidyTuesday, happy to get the penguins almost right with geom_bspline_closed() from {ggforce}Smiling face with smiling eyes
+Palmer penguins for #TidyTuesday, happy to get the penguins almost right with geom_bspline_closed() from {ggforce} 😊
 
 code: https://github.com/gkaramanis/tidytuesday/tree/master/2020-week31  
 &nbsp;  
