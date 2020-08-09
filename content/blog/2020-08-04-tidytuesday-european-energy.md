@@ -7,7 +7,7 @@ url: /blog/2020/08/tidytuesday-european-energy
 categories:
 - Code
 tags:
-- penguins
+- energy
 - plot
 - R
 ---
