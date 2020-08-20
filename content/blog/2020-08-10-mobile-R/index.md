@@ -15,7 +15,7 @@ I have installed the following:
 #### iMac (always on  
 - R  
 - SSH/[Mosh](https://mosh.org). To access my iMac from my iPhone. Just SSH works fine and you don't need to install anything but Mosh keeps the connection when moving between networks (Wi-Fi and cellular).
-- [radian](https://github.com/randy3k/radian) An alternative console for R with multiline editing and rich syntax highlight(requires R, python).  
+- [radian](https://github.com/randy3k/radian) An alternative console for R with multiline editing and rich syntax highlight (requires R, python).  
 
 #### iPhone  
 - [Textastic](https://www.textasticapp.com). Code editor to edit scripts.
