@@ -12,17 +12,17 @@ tags:
 This is a little post about how I use R when I want to make changes in my code or test things and can’t sit in front of a big screen.
 
 I have installed the following:  
-#### iMac (always on) ####  
+#### iMac (always on  
 - R  
 - SSH/[Mosh](https://mosh.org). To access my iMac from my iPhone. Just SSH works fine and you don't need to install anything but Mosh keeps the connection when moving between networks (Wi-Fi and cellular).
 - [radian](https://github.com/randy3k/radian) An alternative console for R with multiline editing and rich syntax highlight(requires R, python).  
 
-#### iPhone ####  
+#### iPhone  
 - [Textastic](https://www.textasticapp.com). Code editor to edit scripts.
 
 - [Blink](https://blink.sh). An iOS terminal, with SSH and Mosh. I use it for Mosh, Textastic has built-in SSH terminal as well. I use it to connect to my iMac, start radian, run the scripts or test code in radian.  
 
-#### iMac and iPhone ####  
+#### iMac and iPhone  
 - Synced folders (I use iCloud) where the scripts live and plots are saved as images.  
 &nbsp;  
 &nbsp;  
