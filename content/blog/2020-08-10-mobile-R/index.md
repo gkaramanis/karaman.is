@@ -27,14 +27,14 @@ I have installed the following:
 &nbsp;  
 &nbsp;  
 
-Simple workflow:
+Simple workflow:  
 1. Start an SSH/Mosh terminal on iPhone to connect to iMac.  
 2. Start radian on iMac.
 3. Write code in radian and see the results in the terminal or export a simple plot as an image.
 
 &nbsp;  
 
-When working with bigger scripts, I first write the script in RStudio on my iMac. When I want to write more code or change it on my iPhone:
+When working with bigger scripts, I first write the script in RStudio on my iMac. When I want to write more code or change it on my iPhone:  
 1. Edit the script in the code editor.
 2. Connect to iMac with an SSH/Mosh terminal and run the script in radian with source().
 3. If I make a plot, I save it as an image inside a synced folder and then view it with Files on my iPhne.
