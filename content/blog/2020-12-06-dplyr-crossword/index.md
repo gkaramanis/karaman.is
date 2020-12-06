@@ -4,9 +4,7 @@ draft: false
 title: dplyr crossword
 type: post
 url: /blog/2020/12/dplyr-crossword
-twitter:
-- card: "summary_large_image"
-- image: dyplr-crossword-feature.jpg
+images: dyplr-crossword-feature.jpg
 categories:
 - Crossword
 tags:
