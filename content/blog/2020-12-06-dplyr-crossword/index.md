@@ -8,6 +8,7 @@ categories:
 - Crossword
 tags:
 - R
+- crossword
 ---
 <div style="margin:auto; display:flex; flex-direction:column; height:600px; max-width:1200px">
 <iframe src="https://crosswordlabs.com/embed/2020-12-03-569" style="flex:1; width:100%; padding:5px 0px 0 5px; border:0px;"></iframe>
