@@ -1,0 +1,151 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: content/street-black-and-white
+  label: Street black and white
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/south-of-the-border
+  label: South of the border
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sketches
+  label: Sketches
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/q-bot
+  label: Q bot
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/portrait
+  label: Portrait
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/piou
+  label: Piou
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/norwegian-wood
+  label: Norwegian wood
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/medswitcher
+  label: Medswitcher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/interiors
+  label: Interiors
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/feedback
+  label: Feedback
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/evidence-of-absence
+  label: Evidence of absence
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/elsa
+  label: Elsa
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/domesticated-animals
+  label: Domesticated animals
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dexter
+  label: Dexter
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/benzoswitcher
+  label: Benzoswitcher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/apple-invitations
+  label: Apple invitations
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/angled
+  label: Angled
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/an-uneasy-feeling
+  label: An uneasy feeling
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/alfredapp
+  label: Alfredapp
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/a-greek-summer
+  label: A greek summer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blog
+  label: Blog
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dataviz
+  label: Dataviz
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/street
+  label: Street
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/about
+  label: About
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/404
+  label: '404'
+  create: all
+  match: "**/*"
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.79.0
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+version: 0.79.0
