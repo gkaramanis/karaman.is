@@ -1,14 +1,6 @@
 ---
 label: Blog post
 hide_body: false
-fields:
-- name: text
-  type: text
-  config:
-    required: false
-  label: Text
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: Image
+fields: []
+pages:
+- content/blog/test-post.md
