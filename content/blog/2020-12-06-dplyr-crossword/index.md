@@ -1,16 +1,16 @@
 ---
 date: 2020-12-06
-draft: false
 title: dplyr crossword
 type: post
-url: /blog/2020/12/dplyr-crossword
-cover: /dplyr-crossword.png
+url: "/blog/2020/12/dplyr-crossword"
+cover: ''
 useRelativeCover: true
 categories:
 - Crossword
 tags:
 - R
 - crossword
+
 ---
 <div style="margin:auto; display:flex; flex-direction:column; height:500px; max-width:500px">
     <iframe border="0" src="https://crosswordlabs.com/embed/2020-12-03-569" style="flex:1; width:100%; padding:5px 0px 0 5px; border:3px solid black; "></iframe>
