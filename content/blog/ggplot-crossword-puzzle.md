@@ -3,8 +3,8 @@ categories = ["crossword"]
 date = 2020-12-13T13:00:00Z
 tags = ["crossword", "R"]
 title = "ggplot crossword puzzle"
-type = ""
-url = ""
+type = "post"
+url = "/blog/2020/12/ggplot-crossword"
 
 +++
 Crossword puzzle with ggplot2 functions. For the answers, omit the **geom_** part and the parentheses **()**
