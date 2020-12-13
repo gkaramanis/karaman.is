@@ -1,6 +1,6 @@
 +++
 categories = ["crossword"]
-date = ""
+date = 2020-12-13T13:00:00Z
 tags = ["crossword", "R"]
 title = "ggplot crossword puzzle"
 type = ""
