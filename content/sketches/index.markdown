@@ -10,27 +10,27 @@ url: /sketches
 
 
   
-   ![](Strawberries.jpg)
+   ![](/images/sketches/Strawberries.jpg)
 
   
 
   
-   ![](Tigers+1.jpg)
+   ![](/images/sketches/Tigers+1.jpg)
 
   
 
   
-   ![](wine.jpg)
+   ![](/images/sketches/wine.jpg)
 
   
 
   
-   ![](20131010-%CE%A3%CE%BA%CE%AF%CF%84%CF%83%CE%B1+4+%28dragged%29.jpg)
+   ![](/images/sketches/20131010-dragged-9.jpg)
 
   
 
   
-   ![](moustaki.jpg)
+   ![](/images/sketches/moustaki.jpg)
 
   
 
