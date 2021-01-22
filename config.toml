@@ -52,24 +52,29 @@ googleAnalytics = "UA-727326-5"
         identifier = "about"
         name = "about"
         url = "/about"
-		weight = 3
+		weight = 4
 	
       [[languages.en.menu.main]]
         identifier = "dataviz"
         name = "dataviz"
         url = "/dataviz"
 		weight = 2
-		
-      [[languages.en.menu.main]]
-        identifier = "street"
-        name = "street"
-        url = "/street"
 	
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "blog"
         url = "/blog"
 		weight = 1
+		
+      [[languages.en.menu.main]]
+        identifier = "aRtist"
+        name = "aRtist"
+        url = "/artist"
+		
+      [[languages.en.menu.main]]
+        identifier = "street"
+        name = "street photo"
+        url = "/street"
 
       [[languages.en.menu.main]]
         identifier = "archive"
