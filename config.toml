@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://karaman.is"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
