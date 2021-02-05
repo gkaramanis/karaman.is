@@ -7,7 +7,7 @@ type = "post"
 url = "/blog/2021/02/genuary-2021"
 
 +++
-This year was the first [#genuary](https://genuary2021.github.io/). It was really fun, I did more plots than I expected and learned **a lot**! All the plots were made in R, the code for every one of them is available on GitHub: https://github.com/gkaramanis/aRtist/tree/main/genuary
+This year was the first [#genuary](https://genuary2021.github.io/). It was really fun, I [did](https://twitter.com/search?q=%40geokaramanis%20%23genuary&src=typed_query) more plots than I expected and learned **a lot**! All the plots were made in R, the code for every one of them is available on [GitHub](https://github.com/gkaramanis/aRtist/tree/main/genuary).
 
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
