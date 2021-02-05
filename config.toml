@@ -12,6 +12,7 @@ googleAnalytics = "UA-727326-5"
 
 [author]
     name = "Georgios Karamanis"
+	twitter = "https://twitter.com/geokaramanis"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
